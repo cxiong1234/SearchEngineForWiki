@@ -1,0 +1,249 @@
+Transfer RNA (abbreviated tRNA and formerly referred to as sRNA, for soluble RNA[1]) is an adaptor molecule composed of RNA, typically 76 to 90 nucleotides in length (in eukaryotes),[2] that serves as the physical link between the mRNA and the amino acid sequence of proteins. Transfer RNA (tRNA) does this by carrying an amino acid to the protein-synthesizing machinery of a cell called the ribosome. Complementation of a 3-nucleotide codon in a messenger RNA (mRNA) by a 3-nucleotide anticodon of the tRNA results in protein synthesis based on the mRNA code. As such, tRNAs are a necessary component of translation, the biological synthesis of new proteins in accordance with the genetic code.
+While the specific nucleotide sequence of an mRNA specifies which amino acids are incorporated into the protein product of the gene from which the mRNA is transcribed, the role of tRNA is to specify which sequence from the genetic code corresponds to which amino acid.[3] The mRNA encodes a protein as a series of contiguous codons, each of which is recognized by a particular tRNA. One end of the tRNA matches the genetic code in a three-nucleotide sequence called the anticodon. The anticodon forms three complementary base pairs with a codon in mRNA during protein biosynthesis.
+On the other end of the tRNA is a covalent attachment to the amino acid that corresponds to the anticodon sequence. Each type of tRNA molecule can be attached to only one type of amino acid, so each organism has many types of tRNA. Because the genetic code contains multiple codons that specify the same amino acid, there are several tRNA molecules bearing different anticodons which carry the same amino acid.
+The covalent attachment to the tRNA 3' end is catalysed by enzymes called aminoacyl tRNA synthetases. During protein synthesis, tRNAs with attached amino acids are delivered to the ribosome by proteins called elongation factors, which aid in association of the tRNA with the ribosome, synthesis of the new polypeptide, and translocation (movement) of the ribosome along the mRNA. If the tRNA's anticodon matches the mRNA, another tRNA already bound to the ribosome transfers the growing polypeptide chain from its 3' end to the amino acid attached to the 3' end of the newly delivered tRNA, a reaction catalysed by the ribosome. A large number of the individual nucleotides in a tRNA molecule may be chemically modified, often by methylation or deamidation. These unusual bases sometimes affect the tRNA's interaction with ribosomes and sometimes occur in the anticodon to alter base-pairing properties.[4]
+The structure of tRNA can be decomposed into its primary structure, its secondary structure (usually visualized as the cloverleaf structure), and its tertiary structure[6] (all tRNAs have a similar L-shaped 3D structure that allows them to fit into the P and A sites of the ribosome). The cloverleaf structure becomes the 3D L-shaped structure through coaxial stacking of the helices, which is a common RNA tertiary structure motif. The lengths of each arm, as well as the loop 'diameter', in a tRNA molecule vary from species to species.[6][7] The tRNA structure consists of the following:
+The acceptor stem is a 7- to 9-base pair (bp) stem made by the base pairing of the 5′-terminal nucleotide with the 3′-terminal nucleotide (which contains the CCA tail used to attach the amino acid). The acceptor stem may contain non-Watson-Crick base pairs.[6][8]
+The CCA tail is a cytosine-cytosine-adenine sequence at the 3′ end of the tRNA molecule. The amino acid loaded onto the tRNA by aminoacyl tRNA synthetases, to form aminoacyl-tRNA, is covalently bonded to the 3′-hydroxyl group on the CCA tail.[9] This sequence is important for the recognition of tRNA by enzymes and critical in translation.[10][11] In prokaryotes, the CCA sequence is transcribed in some tRNA sequences. In most prokaryotic tRNAs and eukaryotic tRNAs, the CCA sequence is added during processing and therefore does not appear in the tRNA gene.[12]
+The D loop is a 4- to 6-bp stem ending in a loop that often contains dihydrouridine.[6]
+The anticodon loop is a 5-bp stem whose loop contains the anticodon.[6]
+The TΨC loop is named so because of the characteristic presence of the unusual base Ψ in the loop, where Ψ is pseudouridine, a modified uridine. The modified base is often found within the sequence 5'-TΨCGA-3', with the T (ribothymidine, m5U) and A forming a base pair.[13]
+The variable loop or V loop sits between the anticodon loop and the ΨU loop and, as its name implies, varies in size from 3 to 21 bases. In some tRNAs, the "loop" is long enough to form a rigid stem, the variable arm.[14] tRNAs with a V loop more than 10 bases long is classified as "class II" and the rest is called "class I".[15]
+An anticodon[16] is a unit of three nucleotides corresponding to the three bases of an mRNA codon. Each tRNA has a distinct anticodon triplet sequence that can form 3 complementary base pairs to one or more codons for an amino acid. Some anticodons pair with more than one codon due to wobble base pairing. Frequently, the first nucleotide of the anticodon is one not found on mRNA: inosine, which can hydrogen bond to more than one base in the corresponding codon position.[4]: 29.3.9  In genetic code, it is common for a single amino acid to be specified by all four third-position possibilities, or at least by both pyrimidines and purines; for example, the amino acid glycine is coded for by the codon sequences GGU, GGC, GGA, and GGG. Other modified nucleotides may also appear at the first anticodon position—sometimes known as the "wobble position"—resulting in subtle changes to the genetic code, as for example in mitochondria.[17] The possibility of wobble bases reduces the number of tRNA types required: instead of 61 types with one for each sense codon of the standard genetic code), only 31 tRNAs are required to translate, unambiguously, all 61 sense codons.[3][18]
+A tRNA is commonly named by its intended amino acid (e.g. tRNA-Asn), by its anticodon sequence (e.g. tRNA(GUU)), or by both (e.g. tRNA-Asn(GUU) or tRNAAsn GUU).[19] These two features describe the main function of the tRNA, but do not actually cover the whole diversity of tRNA variation; as a result, numerical suffixes are added to differentiate.[20] tRNAs intended for the same amino acid are called "isotypes"; these with the same anticodon sequence are called "isoacceptors"; and these with both being the same but differing in other places are called "isodecoders".[21]
+Aminoacylation is the process of adding an aminoacyl group to a compound. It covalently links an amino acid to the CCA 3′ end of a tRNA molecule. Each tRNA is aminoacylated (or charged) with a specific amino acid by an aminoacyl tRNA synthetase. There is normally a single aminoacyl tRNA synthetase for each amino acid, despite the fact that there can be more than one tRNA, and more than one anticodon for an amino acid. Recognition of the appropriate tRNA by the synthetases is not mediated solely by the anticodon, and the acceptor stem often plays a prominent role.[22] Reaction:
+amino acid + ATP → aminoacyl-AMP + PPi
+aminoacyl-AMP + tRNA → aminoacyl-tRNA + AMP
+Certain organisms can have one or more aminophosphate-tRNA synthetases missing. This leads to charging of the tRNA by a chemically related amino acid, and by use of an enzyme or enzymes, the tRNA is modified to be correctly charged. For example, Helicobacter pylori has glutaminyl tRNA synthetase missing. Thus, glutamate tRNA synthetase charges tRNA-glutamine(tRNA-Gln) with glutamate. An amidotransferase then converts the acid side chain of the glutamate to the amide, forming the correctly charged gln-tRNA-Gln.
+The ribosome has three binding sites for tRNA molecules that span the space between the two ribosomal subunits: the A (aminoacyl),[24] P (peptidyl), and E (exit) sites. In addition, the ribosome has two other sites for tRNA binding that are used during mRNA decoding or during the initiation of protein synthesis. These are the T site (named elongation factor Tu) and I site (initiation).[25][26] By convention, the tRNA binding sites are denoted with the site on the small ribosomal subunit listed first and the site on the large ribosomal subunit listed second. For example, the A site is often written A/A, the P site, P/P, and the E site, E/E.[25] The binding proteins like L27, L2, L14, L15, L16 at the A- and P- sites have been determined by affinity labeling by A. P. Czernilofsky et al. (Proc. Natl. Acad. Sci, USA, pp. 230–234, 1974).
+Once translation initiation is complete, the first aminoacyl tRNA is located in the P/P site, ready for the elongation cycle described below. During translation elongation, tRNA first binds to the ribosome as part of a complex with elongation factor Tu (EF-Tu) or its eukaryotic (eEF-1) or archaeal counterpart. This initial tRNA binding site is called the A/T site. In the A/T site, the A-site half resides in the small ribosomal subunit where the mRNA decoding site is located. The mRNA decoding site is where the mRNA codon is read out during translation. The T-site half resides mainly on the large ribosomal subunit where EF-Tu or eEF-1 interacts with the ribosome. Once mRNA decoding is complete, the aminoacyl-tRNA is bound in the A/A site and is ready for the next peptide bond[27] to be formed to its attached amino acid. The peptidyl-tRNA, which transfers the growing polypeptide to the aminoacyl-tRNA bound in the A/A site, is bound in the P/P site. Once the peptide bond is formed, the tRNA in the P/P site is acylated, or has a free 3' end, and the tRNA in the A/A site dissociates the growing polypeptide chain. To allow for the next elongation cycle, the tRNAs then move through hybrid A/P and P/E binding sites, before completing the cycle and residing in the P/P and E/E sites. Once the A/A and P/P tRNAs have moved to the P/P and E/E sites, the mRNA has also moved over by one codon and the A/T site is vacant, ready for the next round of mRNA decoding. The tRNA bound in the E/E site then leaves the ribosome.
+The P/I site is actually the first to bind to aminoacyl tRNA, which is delivered by an initiation factor called IF2 in bacteria.[26] However, the existence of the P/I site in eukaryotic or archaeal ribosomes has not yet been confirmed. The P-site protein L27 has been determined by affinity labeling by E. Collatz and A. P. Czernilofsky (FEBS Lett., Vol. 63, pp. 283–286, 1976).
+Organisms vary in the number of tRNA genes in their genome. For example, the nematode worm C. elegans, a commonly used model organism in genetics studies, has 29,647 [28] genes in its nuclear genome, of which 620 code for tRNA.[29][30] The budding yeast Saccharomyces cerevisiae has 275 tRNA genes in its genome. The number of tRNA genes per genome can vary widely, with bacterial species from groups such as Fusobacteria and Tenericutes having around 30 genes per genome while complex eukaryotic genomes such as the zebrafish (Danio rerio) can bear more than 10 thousand tRNA genes.[31]
+In the human genome, which, according to January 2013 estimates, has about 20,848 protein coding genes [32] in total, there are 497 nuclear genes encoding cytoplasmic tRNA molecules, and 324 tRNA-derived pseudogenes—tRNA genes thought to be no longer functional[33] (although pseudo tRNAs have been shown to be involved in antibiotic resistance in bacteria).[34] As with all eukaryotes, there are 22 mitochondrial tRNA genes[35] in humans. Mutations in some of these genes have been associated with severe diseases like the MELAS syndrome. Regions in nuclear chromosomes, very similar in sequence to mitochondrial tRNA genes, have also been identified (tRNA-lookalikes).[36] These tRNA-lookalikes are also considered part of the nuclear mitochondrial DNA (genes transferred from the mitochondria to the nucleus).[36][37] The phenomenon of multiple nuclear copies of mitochondrial tRNA (tRNA-lookalikes) has been observed in many higher organisms from human to the opossum[38] suggesting the possibility that the lookalikes are functional.
+Cytoplasmic tRNA genes can be grouped into 49 families according to their anticodon features. These genes are found on all chromosomes, except the 22 and Y chromosome. High clustering on 6p is observed (140 tRNA genes), as well as on chromosome 1.[33]
+The HGNC, in collaboration with the Genomic tRNA Database (GtRNAdb) and experts in the field, has approved unique names for human genes that encode tRNAs.
+Typically, tRNAs genes from Bacteria are shorter (mean = 77.6 bp) than tRNAs from Archaea (mean = 83.1 bp) and eukaryotes (mean = 84.7 bp).[31] The mature tRNA follows an opposite pattern with tRNAs from Bacteria being usually longer (median = 77.6 nt) than tRNAs from Archaea (median = 76.8 nt), with eukaryotes exhibiting the shortest mature tRNAs (median = 74.5 nt).[31]
+Genomic tRNA content is a differentiating feature of genomes among biological domains of life: Archaea present the simplest situation in terms of genomic tRNA content with a uniform number of gene copies, Bacteria have an intermediate situation and Eukarya present the most complex situation.[39] Eukarya present not only more tRNA gene content than the other two kingdoms but also a high variation in gene copy number among different isoacceptors, and this complexity seem to be due to duplications of tRNA genes and changes in anticodon specificity [citation needed].
+Evolution of the tRNA gene copy number across different species has been linked to the appearance of specific tRNA modification enzymes (uridine methyltransferases in Bacteria, and adenosine deaminases in Eukarya), which increase the decoding capacity of a given tRNA.[39] As an example, tRNAAla encodes four different tRNA isoacceptors (AGC, UGC, GGC and CGC). In Eukarya, AGC isoacceptors are extremely enriched in gene copy number in comparison to the rest of isoacceptors, and this has been correlated with its A-to-I modification of its wobble base. This same trend has been shown for most amino acids of eukaryal species. Indeed, the effect of these two tRNA modifications is also seen in codon usage bias. Highly expressed genes seem to be enriched in codons that are exclusively using codons that will be decoded by these modified tRNAs, which suggests a possible role of these codons—and consequently of these tRNA modifications—in translation efficiency.[39]
+It is important to note that many species have lost specific tRNAs during evolution. For instance, both mammals and birds lack the same 14 out of the possible 64 tRNA genes, but other life forms contain these tRNAs.[40] For translating codons for which an exactly pairing tRNA is missing, organisms resort to a strategy called wobbling, in which imperfectly matched tRNA/mRNA pairs still give rise to translation, although this strategy also increases to propensity for translation errors.[41] The reasons why tRNA genes have been lost during evolution remains under debate but may relate improving resistance to viral infection.[42] Because nucleotide triplets can present more combinations than there are amino acids and associated tRNAs, there is redundancy in the genetic code, and several different 3-nucleotide codons can express the same amino acid. This codon bias is what necessitates codon optimization.
+The top half of tRNA (consisting of the T arm and the acceptor stem with 5′-terminal phosphate group and 3′-terminal CCA group) and the bottom half (consisting of the D arm and the anticodon arm) are independent units in structure as well as in function. The top half may have evolved first including the 3′-terminal genomic tag which originally may have marked tRNA-like molecules for replication in early RNA world. The bottom half may have evolved later as an expansion, e.g. as protein synthesis started in RNA world and turned it into a ribonucleoprotein world (RNP world). This proposed scenario is called genomic tag hypothesis. In fact, tRNA and tRNA-like aggregates have an important catalytic influence (i.e., as ribozymes) on replication still today. These roles may be regarded as 'molecular (or chemical) fossils' of RNA world.[43] In March 2021, researchers reported evidence suggesting that an early form of transfer RNA could have been a replicator ribozyme molecule in the very early development of life, or abiogenesis.[44][45]
+tRNA-derived fragments (or tRFs) are short molecules that emerge after cleavage of the mature tRNAs or the precursor transcript.[46][47][48][49] Both cytoplasmic and mitochondrial tRNAs can produce fragments.[50] There are at least four structural types of tRFs believed to originate from mature tRNAs, including the relatively long tRNA halves and short 5'-tRFs, 3'-tRFs and i-tRFs.[46][50][51] The precursor tRNA can be cleaved to produce molecules from the 5' leader or 3' trail sequences. Cleavage enzymes include Angiogenin, Dicer, RNase Z and RNase P.[46][47] Especially in the case of Angiogenin, the tRFs have a characteristically unusual cyclic phosphate at their 3' end and a hydroxyl group at the 5' end.[52] tRFs appear to play a role in RNA interference, specifically in the suppression of retroviruses and retrotransposons that use tRNA as a primer for replication. Half-tRNAs cleaved by angiogenin are also known as tiRNAs. The biogenesis of smaller fragments, including those that function as piRNAs, are less understood.[53]
+tRFs have multiple dependencies and roles; such as exhibiting significant changes between sexes, among races and disease status.[50][54][55] Functionally, they can be loaded on Ago and act through RNAi pathways,[48][51][56] participate in the formation of stress granules,[57] displace mRNAs from RNA-binding proteins[58] or inhibit translation.[59] At the system or the organismal level, the four types of tRFs have a diverse spectrum of activities. Functionally, tRFs are associated with viral infection,[60] cancer,[51] cell proliferation [52] and also with epigenetic transgenerational regulation of metabolism.[61]
+tRFs are not restricted to humans and have been shown to exist in multiple organisms.[51][62][63][64]
+Two online tools are available for those wishing to learn more about tRFs: the framework for the interactive exploration of mitochondrial and nuclear tRNA fragments (MINTbase)[65][66] and the relational database of Transfer RNA related Fragments (tRFdb).[67] MINTbase also provides a naming scheme for the naming of tRFs called tRF-license plates (or MINTcodes) that is genome independent; the scheme compresses an RNA sequence into a shorter string.
+tRNAs with modified anticodons and/or acceptor stems can be used to modify the genetic code. Scientists have successfully repurposed codons (sense and stop) to accept amino acids (natural and novel), for both initiation (see: start codon) and elongation.
+In 1990, tRNAfMet2 CUA (modified from the tRNAfMet2 CAU gene metY) was inserted into E. coli, causing it to initiate protein synthesis at the UAG stop codon, as long as it is preceded by a strong Shine-Dalgarno sequence. At initiation it not only inserts the traditional formylmethionine, but also formylglutamine, as glutamyl-tRNA synthase also recognizes the new tRNA.[68] The experiment was repeated in 1993, now with an elongator tRNA modified to be recognized by the methionyl-tRNA formyltransferase.[69] A similar result was obtained in Mycobacterium.[70] Later experiments showed that the new tRNA was orthogonal to the regular AUG start codon showing no detectable off-target translation initiation events in a genomically recoded E. coli strain.[71]
+In eukaryotic cells, tRNAs are transcribed by RNA polymerase III as pre-tRNAs in the nucleus.[72] RNA polymerase III recognizes two highly conserved downstream promoter sequences: the 5′ intragenic control region (5′-ICR, D-control region, or A box), and the 3′-ICR (T-control region or B box) inside tRNA genes.[2][73][74] The first promoter begins at +8 of mature tRNAs and the second promoter is located 30–60 nucleotides downstream of the first promoter. The transcription terminates after a stretch of four or more thymidines.[2][74]
+Pre-tRNAs undergo extensive modifications inside the nucleus. Some pre-tRNAs contain introns that are spliced, or cut, to form the functional tRNA molecule;[75] in bacteria these self-splice, whereas in eukaryotes and archaea they are removed by tRNA-splicing endonucleases.[76] Eukaryotic pre-tRNA contains bulge-helix-bulge (BHB) structure motif that is important for recognition and precise splicing of tRNA intron by endonucleases.[77] This motif position and structure are evolutionarily conserved. However, some organisms, such as unicellular algae have a non-canonical position of BHB-motif as well as 5′- and 3′-ends of the spliced intron sequence.[77] The 5′ sequence is removed by RNase P,[78] whereas the 3′ end is removed by the tRNase Z enzyme.[79] A notable exception is in the archaeon Nanoarchaeum equitans, which does not possess an RNase P enzyme and has a promoter placed such that transcription starts at the 5′ end of the mature tRNA.[80] The non-templated 3′ CCA tail is added by a nucleotidyl transferase.[81] Before tRNAs are exported into the cytoplasm by Los1/Xpo-t,[82][83] tRNAs are aminoacylated.[84] The order of the processing events is not conserved. For example, in yeast, the splicing is not carried out in the nucleus but at the cytoplasmic side of mitochondrial membranes.[85]
+The existence of tRNA was first hypothesized by Francis Crick as the "adaptor hypothesis" based on the assumption that there must exist an adapter molecule capable of mediating the translation of the RNA alphabet into the protein alphabet. Paul C Zamecnik, Mahlon Hoagland, and Mary Louise Stephenson discovered tRNA. [86][87][88] Significant research on structure was conducted in the early 1960s by Alex Rich and Donald Caspar, two researchers in Boston, the Jacques Fresco group in Princeton University and a United Kingdom group at King's College London.[89] In 1965, Robert W. Holley of Cornell University reported the primary structure and suggested three secondary structures.[90] tRNA was first crystallized in Madison, Wisconsin, by Robert M. Bock.[91] The cloverleaf structure was ascertained by several other studies in the following years[92] and was finally confirmed using X-ray crystallography studies in 1974. Two independent groups, Kim Sung-Hou working under Alexander Rich and a British group headed by Aaron Klug, published the same crystallography findings within a year.[93][94]
+Interference with aminoacylation may be useful as an approach to treating some diseases: cancerous cells may be relatively vulnerable to disturbed aminoacylation compared to healthy cells. The protein synthesis associated with cancer and viral biology is often very dependent on specific tRNA molecules. For instance, for liver cancer charging tRNA-Lys-CUU with lysine sustains liver cancer cell growth and metastasis, whereas healthy cells have a much lower dependence on this tRNA to support cellular physiology.[95] Similarly, hepatitis E virus requires a tRNA landscape that substantially differs from that associated with uninfected cells.[96] Hence, inhibition of aminoacylation of specific tRNA species is considered a promising novel avenue for the rational treatment of a plethora of diseases.
+Cloverleaf model of tRNA
+Kim Sung-Hou
+Kissing stem-loop
+mRNA
+non-coding RNA and introns
+Slippery sequence
+tmRNA
+Transfer RNA-like structures
+Translation
+tRNADB
+Wobble hypothesis
+Aminoacyl-tRNA
+^ Plescia OJ, Palczuk NC, Cora-Figueroa E, Mukherjee A, Braun W (October 1965). "Production of antibodies to soluble RNA (sRNA)". Proceedings of the National Academy of Sciences of the United States of America. 54 (4): 1281–1285. Bibcode:1965PNAS...54.1281P. doi:10.1073/pnas.54.4.1281. PMC 219862. PMID 5219832.
+^ a b c Sharp SJ, Schaack J, Cooley L, Burke DJ, Söll D (1985). "Structure and transcription of eukaryotic tRNA genes". CRC Critical Reviews in Biochemistry. 19 (2): 107–144. doi:10.3109/10409238509082541. PMID 3905254.
+^ a b Crick FH (December 1968). "The origin of the genetic code". Journal of Molecular Biology. 38 (3): 367–379. doi:10.1016/0022-2836(68)90392-6. PMID 4887876. S2CID 4144681.
+^ a b Stryer L, Berg JM, Tymoczko JL (2002). Biochemistry (5th ed.). San Francisco: W. H. Freeman. ISBN 978-0-7167-4955-4.
+^ "Transfer RNA (tRNA)". Proteopedia.org. Retrieved 7 November 2018.
+^ a b c d e Itoh Y, Sekine S, Suetsugu S, Yokoyama S (July 2013). "Tertiary structure of bacterial serenocysteine tRNA". Nucleic Acids Research. 41 (13): 6729–6738. doi:10.1093/nar/gkt321. PMC 3711452. PMID 23649835.
+^ Goodenbour JM, Pan T (29 October 2006). "Diversity of tRNA genes in eukaryotes". Nucleic Acids Research. 34 (21): 6137–6146. doi:10.1093/nar/gkl725. PMC 1693877. PMID 17088292.
+^ Jahn M, Rogers MJ, Söll D (July 1991). "Anticodon and acceptor stem nucleotides in tRNA(Gln) are major recognition elements for E. coli glutaminyl-tRNA synthetase". Nature. 352 (6332): 258–260. Bibcode:1991Natur.352..258J. doi:10.1038/352258a0. PMID 1857423. S2CID 4263705.
+^ Ibba M, Soll D (June 2000). "Aminoacyl-tRNA synthesis". Annual Review of Biochemistry. 69 (1): 617–650. doi:10.1146/annurev.biochem.69.1.617. PMID 10966471.
+^ Sprinzl M, Cramer F (1979). "The -C-C-A end of tRNA and its role in protein biosynthesis". Progress in Nucleic Acid Research and Molecular Biology. 22: 1–69. doi:10.1016/s0079-6603(08)60798-9. ISBN 978-0-12-540022-0. PMID 392600.
+^ Green R, Noller HF (1997). "Ribosomes and translation". Annual Review of Biochemistry. 66: 679–716. doi:10.1146/annurev.biochem.66.1.679. PMID 9242921.
+^ Aebi M, Kirchner G, Chen JY, Vijayraghavan U, Jacobson A, Martin NC, Abelson J, et al. (September 1990). "Isolation of a temperature-sensitive mutant with an altered tRNA nucleotidyltransferase and cloning of the gene encoding tRNA nucleotidyltransferase in the yeast Saccharomyces cerevisiae". The Journal of Biological Chemistry. 265 (27): 16216–16220. doi:10.1016/S0021-9258(17)46210-7. PMID 2204621.
+^ Chan, CW; Chetnani, B; Mondragón, A (September 2013). "Structure and function of the T-loop structural motif in noncoding RNAs". Wiley Interdisciplinary Reviews. RNA. 4 (5): 507–22. doi:10.1002/wrna.1175. PMC 3748142. PMID 23754657.
+^ Prabhakar A, Krahn N, Zhang J, Vargas-Rodriguez O, Krupkin M, Fu Z, Acosta-Reyes FJ, Ge X, Choi J, Crnković A, Ehrenberg M, Puglisi EV, Söll D, Puglisi J (Jul 2022). "Uncovering translation roadblocks during the development of a synthetic tRNA". Nucleic Acids Res. 50 (18): 10201–10211. doi:10.1093/nar/gkac576. PMC 9561287. PMID 35882385.
+^ Brennan, T.; Sundaralingam, M. (1 November 1976). "Structure, of transfer RNA molecules containing the long variable loop". Nucleic Acids Research. 3 (11): 3235–3252. doi:10.1093/nar/3.11.3235. PMC 343166. PMID 794835.
+^ Felsenfeld G, Cantoni GL (May 1964). "Use of thermal denaturation studies to investigate the base sequence of yeast serine sRNA". Proceedings of the National Academy of Sciences of the United States of America. 51 (5): 818–826. Bibcode:1964PNAS...51..818F. doi:10.1073/pnas.51.5.818. PMC 300168. PMID 14172997.
+^ Suzuki T, Suzuki T (June 2014). "A complete landscape of post-transcriptional modifications in mammalian mitochondrial tRNAs". Nucleic Acids Research. 42 (11): 7346–7357. doi:10.1093/nar/gku390. PMC 4066797. PMID 24831542.
+^ Lodish H, Berk A, Matsudaira P, Kaiser CA, Krieger M, Scott MP, Zipursky SL, Darnell J. (2004). Molecular Cell Biology. WH Freeman: New York. 5th ed. ISBN 978-0716743668[page needed]
+^ Parisien, Marc; Wang, Xiaoyun; Pan, Tao (December 2013). "Diversity of human tRNA genes from the 1000-genomes project". RNA Biology. 10 (12): 1853–1867. doi:10.4161/rna.27361. PMC 3917988. PMID 24448271.
+^ Chan, PP; Lowe, TM (4 January 2016). "GtRNAdb 2.0: an expanded database of transfer RNA genes identified in complete and draft genomes". Nucleic Acids Research. 44 (D1): D184-9. doi:10.1093/nar/gkv1309. PMC 4702915. PMID 26673694.
+^ Hughes, Laetitia A.; Rudler, Danielle L.; Siira, Stefan J.; McCubbin, Tim; Raven, Samuel A.; Browne, Jasmin M.; Ermer, Judith A.; Rientjes, Jeanette; Rodger, Jennifer; Marcellin, Esteban; Rackham, Oliver; Filipovska, Aleksandra (18 April 2023). "Copy number variation in tRNA isodecoder genes impairs mammalian development and balanced translation". Nature Communications. 14 (1): 2210. Bibcode:2023NatCo..14.2210H. doi:10.1038/s41467-023-37843-9. PMC 10113395. PMID 37072429.
+^ Schimmel P, Giegé R, Moras D, Yokoyama S (October 1993). "An operational RNA code for amino acids and possible relationship to genetic code". Proceedings of the National Academy of Sciences of the United States of America. 90 (19): 8763–8768. Bibcode:1993PNAS...90.8763S. doi:10.1073/pnas.90.19.8763. PMC 47440. PMID 7692438.
+^ Dunkle JA, Wang L, Feldman MB, Pulk A, Chen VB, Kapral GJ, Noeske J, Richardson JS, Blanchard SC, Cate JH (May 2011). "Structures of the bacterial ribosome in classical and hybrid states of tRNA binding". Science. 332 (6032): 981–984. Bibcode:2011Sci...332..981D. doi:10.1126/science.1202692. PMC 3176341. PMID 21596992.
+^ Konevega AL, Soboleva NG, Makhno VI, Semenkov YP, Wintermeyer W, Rodnina MV, Katunin VI (January 2004). "Purine bases at position 37 of tRNA stabilize codon-anticodon interaction in the ribosomal A site by stacking and Mg2+-dependent interactions". RNA. 10 (1): 90–101. doi:10.1261/rna.5142404. PMC 1370521. PMID 14681588.
+^ a b Agirrezabala X, Frank J (August 2009). "Elongation in translation as a dynamic interaction among the ribosome, tRNA, and elongation factors EF-G and EF-Tu". Quarterly Reviews of Biophysics. 42 (3): 159–200. doi:10.1017/S0033583509990060. PMC 2832932. PMID 20025795.
+^ a b Allen GS, Zavialov A, Gursky R, Ehrenberg M, Frank J (June 2005). "The cryo-EM structure of a translation initiation complex from Escherichia coli". Cell. 121 (5): 703–712. doi:10.1016/j.cell.2005.03.023. PMID 15935757. S2CID 16146867.
+^ Tirumalai MR, Rivas M, Tran Q, Fox GE (November 2021). "The Peptidyl Transferase Center: a Window to the Past". Microbiol Mol Biol Rev. 85 (4): e0010421. doi:10.1128/MMBR.00104-21. PMC 8579967. PMID 34756086.
+^ WormBase web site, http://www.wormbase.org Archived 2017-04-20 at the Wayback Machine, release WS187, date 25-Jan-2008.
+^ Spieth J, Lawson D (January 2006). "Overview of gene structure". WormBook: 1–10. doi:10.1895/wormbook.1.65.1. PMC 4781370. PMID 18023127.
+^ Hartwell LH, Hood L, Goldberg ML, Reynolds AE, Silver LM, Veres RC. (2004). Genetics: From Genes to Genomes 2nd ed. McGraw-Hill: New York. p. 264.
+^ a b c Santos, Fenícia Brito; Del-Bem, Luiz-Eduardo (January 2023). "The Evolution of tRNA Copy Number and Repertoire in Cellular Life". Genes. 14 (1): 27. doi:10.3390/genes14010027. ISSN 2073-4425. PMC 9858662. PMID 36672768.
+^ Ensembl release 70 - Jan 2013 http://www.ensembl.org/Homo_sapiens/Info/StatsTable?db=core Archived 2013-12-15 at the Wayback Machine
+^ a b Lander ES, Linton LM, Birren B, Nusbaum C, Zody MC, Baldwin J, et al. (International Human Genome Sequencing Consortium) (February 2001). "Initial sequencing and analysis of the human genome" (PDF). Nature. 409 (6822): 860–921. Bibcode:2001Natur.409..860L. doi:10.1038/35057062. PMID 11237011.
+^ Rogers TE, Ataide SF, Dare K, Katz A, Seveau S, Roy H, Ibba M (2012). "A pseudo-tRNA modulates antibiotic resistance in Bacillus cereus". PLOS ONE. 7 (7): e41248. Bibcode:2012PLoSO...741248R. doi:10.1371/journal.pone.0041248. PMC 3399842. PMID 22815980.
+^ Hartwell LH, Hood L, Goldberg ML, Reynolds AE, Silver LM, Veres RC. (2004). Genetics: From Genes to Genomes 2nd ed. McGraw-Hill: New York. p. 529.
+^ a b Telonis AG, Loher P, Kirino Y, Rigoutsos I (2014). "Nuclear and mitochondrial tRNA-lookalikes in the human genome". Frontiers in Genetics. 5: 344. doi:10.3389/fgene.2014.00344. PMC 4189335. PMID 25339973.
+^ Ramos A, Barbena E, Mateiu L, del Mar González M, Mairal Q, Lima M, Montiel R, Aluja MP, Santos C, et al. (November 2011). "Nuclear insertions of mitochondrial origin: Database updating and usefulness in cancer studies". Mitochondrion. 11 (6): 946–953. doi:10.1016/j.mito.2011.08.009. PMID 21907832.
+^ Telonis AG, Kirino Y, Rigoutsos I (2015). "Mitochondrial tRNA-lookalikes in nuclear chromosomes: Could they be functional?". RNA Biol. 12 (4): 375–380. doi:10.1080/15476286.2015.1017239. PMC 4615777. PMID 25849196.
+^ a b c Novoa EM, Pavon-Eternod M, Pan T, Ribas de Pouplana L (March 2012). "A role for tRNA modifications in genome structure and codon usage". Cell. 149 (1): 202–213. doi:10.1016/j.cell.2012.01.050. PMID 22464330. S2CID 16487609.
+^ Ou X, Peng W, Yang Z, Cao J, Wang M, Peppelenbosch MP, Pan Q, Cheng A (November 2020). "Evolutionarily missing and conserved tRNA genes in human and avian". Infect. Genet. Evol. 85: 104460. doi:10.1016/j.meegid.2020.104460. hdl:1765/129010. PMID 32679345.
+^ Ou X, Cao J, Cheng A, Peppelenbosch MP, Pan Q (March 2019). "Errors in translational decoding: tRNA wobbling or misincorporation?". PLOS Genetics. 15 (3): 2979–2986. doi:10.1371/journal.pgen.1008017. PMC 3158919. PMID 21930591.
+^ Ou X, Wang M, Mao S, Cao J, Cheng A, Zhu D, Chen S, Jia R, Liu M, Yang Q, Wu Y, Zhao X, Zhang S, Liu Y, Yu Y, Zhang L, Chen X, Peppelenbosch MP, Pan Q (July 2018). "Incompatible Translation Drives a Convergent Evolution and Viral Attenuation During the Development of Live Attenuated Vaccine". Front. Cell. Infect. Microbiol. 8: 249. doi:10.3389/fcimb.2018.00249. PMC 6058041. PMID 30073153.
+^ Maizels, Nancy; Weiner, Alan M. (1999). "The Genomic Tag Hypothesis – What Molecular Fossils Tell Us about the Evolution of tRNA". The RNA World (2nd ed.). Cold Spring Harbor Laboratory Press. CiteSeerX 10.1.1.708.7795. ISBN 978-0-87969-561-3. Retrieved February 16, 2024.
+^ Kühnlein, Alexandra; Lanzmich, Simon A.; Brun, Dieter (2 March 2021). "tRNA sequences can assemble into a replicator". eLife. 10. doi:10.7554/eLife.63431. PMC 7924937. PMID 33648631.
+^ Maximilian, Ludwig (3 April 2021). "Solving the Chicken-and-the-Egg Problem – "A Step Closer to the Reconstruction of the Origin of Life"". SciTechDaily. Retrieved 3 April 2021.
+^ a b c Gebetsberger J, Polacek N (December 2013). "Slicing tRNAs to boost functional ncRNA diversity". RNA Biology. 10 (12): 1798–1806. doi:10.4161/rna.27177. PMC 3917982. PMID 24351723.
+^ a b Shigematsu M, Honda S, Kirino Y (2014). "Transfer RNA as a source of small functional RNA". Journal of Molecular Biology and Molecular Imaging. 1 (2): 8. PMC 4572697. PMID 26389128.
+^ a b Sobala A, Hutvagner G (2011). "Transfer RNA-derived fragments: origins, processing, and functions" (PDF). Wiley Interdisciplinary Reviews: RNA. 2 (6): 853–862. doi:10.1002/wrna.96. hdl:10453/18187. PMID 21976287. S2CID 206554146.
+^ Keam SP, Hutvagner G (November 2015). "tRNA-Derived Fragments (tRFs): Emerging New Roles for an Ancient RNA in the Regulation of Gene Expression". Life. 5 (4): 1638–1651. Bibcode:2015Life....5.1638K. doi:10.3390/life5041638. PMC 4695841. PMID 26703738.
+^ a b c Telonis AG, Loher P, Honda S, Jing Y, Palazzo J, Kirino Y, Rigoutsos I (July 2015). "Dissecting tRNA-derived fragment complexities using personalized transcriptomes reveals novel fragment classes and unexpected dependencies". Oncotarget. 6 (28): 24797–822. doi:10.18632/oncotarget.4695. PMC 4694795. PMID 26325506.
+^ a b c d Kumar P, Anaya J, Mudunuri SB, Dutta A (October 2014). "Meta-analysis of tRNA derived RNA fragments reveals that they are evolutionarily conserved and associate with AGO proteins to recognize specific RNA targets". BMC Biology. 12: 78. doi:10.1186/s12915-014-0078-0. PMC 4203973. PMID 25270025.
+^ a b Honda S, Loher P, Shigematsu M, Palazzo JP, Suzuki R, Imoto I, Rigoutsos I, Kirino Y (July 2015). "Sex hormone-dependent tRNA halves enhance cell proliferation in breast and prostate cancers". Proceedings of the National Academy of Sciences of the United States of America. 112 (29): E3816–E3825. Bibcode:2015PNAS..112E3816H. doi:10.1073/pnas.1510077112. PMC 4517238. PMID 26124144.
+^ Schorn, AJ; Martienssen, R (October 2018). "Tie-Break: Host and Retrotransposons Play tRNA". Trends in Cell Biology. 28 (10): 793–806. doi:10.1016/j.tcb.2018.05.006. PMC 6520983. PMID 29934075.
+^ Telonis AG, Rigoutsos I (March 2018). "Race Disparities in the Contribution of miRNA Isoforms and tRNA-Derived Fragments to Triple-Negative Breast Cancer". Cancer Res. 78 (5): 1140–54. doi:10.1158/0008-5472.CAN-17-1947. PMC 5935570. PMID 29229607.
+^ Telonis AG, Loher P, Magee R, Pliatsika V, Londin E, Kirino Y, Rigoutsos I (Jun 2019). "tRNA Fragments Show Intertwining with mRNAs of Specific Repeat Content and Have Links to Disparities". Cancer Res. 79 (12): 3034–49. doi:10.1158/0008-5472.CAN-19-0789. PMC 6571059. PMID 30996049.
+^ Shigematsu M, Kirino Y (2015). "tRNA-Derived Short Non-coding RNA as Interacting Partners of Argonaute Proteins". Gene Regulation and Systems Biology. 9: 27–33. doi:10.4137/GRSB.S29411. PMC 4567038. PMID 26401098.
+^ Emara MM, Ivanov P, Hickman T, Dawra N, Tisdale S, Kedersha N, Hu GF, Anderson P (April 2010). "Angiogenin-induced tRNA-derived stress-induced RNAs promote stress-induced stress granule assembly". The Journal of Biological Chemistry. 285 (14): 10959–10968. doi:10.1074/jbc.M109.077560. PMC 2856301. PMID 20129916.
+^ Goodarzi H, Liu X, Nguyen HC, Zhang S, Fish L, Tavazoie SF (May 2015). "Endogenous tRNA-Derived Fragments Suppress Breast Cancer Progression via YBX1 Displacement". Cell. 161 (4): 790–802. doi:10.1016/j.cell.2015.02.053. PMC 4457382. PMID 25957686.
+^ Ivanov P, Emara MM, Villen J, Gygi SP, Anderson P (August 2011). "Angiogenin-induced tRNA fragments inhibit translation initiation". Molecular Cell. 43 (4): 613–623. doi:10.1016/j.molcel.2011.06.022. PMC 3160621. PMID 21855800.
+^ Selitsky SR, Baran-Gale J, Honda M, Yamane D, Masaki T, Fannin EE, Guerra B, Shirasaki T, Shimakami T, Kaneko S, Lanford RE, Lemon SM, Sethupathy P (January 2015). "Small tRNA-derived RNAs are increased and more abundant than microRNAs in chronic hepatitis B and C". Scientific Reports. 5: 7675. Bibcode:2015NatSR...5E7675S. doi:10.1038/srep07675. PMC 4286764. PMID 25567797.
+^ Sharma U, Conine CC, Shea JM, Boskovic A, Derr AG, Bing XY, Belleannee C, Kucukural A, Serra RW, Sun F, Song L, Carone BR, Ricci EP, Li XZ, Fauquier L, Moore MJ, Sullivan R, Mello CC, Garber M, Rando OJ (January 2016). "Biogenesis and function of tRNA fragments during sperm maturation and fertilization in mammals". Science. 351 (6271): 391–396. Bibcode:2016Sci...351..391S. doi:10.1126/science.aad6780. PMC 4888079. PMID 26721685.
+^ Casas E, Cai G, Neill JD (2015). "Characterization of circulating transfer RNA-derived RNA fragments in cattle". Frontiers in Genetics. 6: 271. doi:10.3389/fgene.2015.00271. PMC 4547532. PMID 26379699.
+^ Hirose Y, Ikeda KT, Noro E, Hiraoka K, Tomita M, Kanai A (July 2015). "Precise mapping and dynamics of tRNA-derived fragments (tRFs) in the development of Triops cancriformis (tadpole shrimp)". BMC Genetics. 16: 83. doi:10.1186/s12863-015-0245-5. PMC 4501094. PMID 26168920.
+^ Karaiskos S, Naqvi AS, Swanson KE, Grigoriev A (September 2015). "Age-driven modulation of tRNA-derived fragments in Drosophila and their potential targets". Biology Direct. 10: 51. doi:10.1186/s13062-015-0081-6. PMC 4572633. PMID 26374501.
+^ Pliatsika V, Loher P, Telonis AG, Rigoutsos I (August 2016). "MINTbase: a framework for the interactive exploration of mitochondrial and nuclear tRNA fragments". Bioinformatics. 32 (16): 2481–2489. doi:10.1093/bioinformatics/btw194. PMC 4978933. PMID 27153631.
+^ Pliatsika V, Loher P, Magee R, Telonis AG, Londin E, Shigematsu M, Kirino Y, Rigoutsos I (January 2018). "MINTbase v2.0: a comprehensive database for tRNA-derived fragments that includes nuclear and mitochondrial fragments from all The Cancer Genome Atlas projects". Nucleic Acids Research. 46(D1) (D1): D152–D159. doi:10.1093/nar/gkx1075. PMC 5753276. PMID 29186503.
+^ Kumar P, Mudunuri SB, Anaya J, Dutta A (January 2015). "tRFdb: a database for transfer RNA fragments". Nucleic Acids Research. 43 (Database issue): D141-5. doi:10.1093/nar/gku1138. PMC 4383946. PMID 25392422.
+^ Varshney, U; RajBhandary, U L (February 1990). "Initiation of protein synthesis from a termination codon". Proceedings of the National Academy of Sciences. 87 (4): 1586–1590. Bibcode:1990PNAS...87.1586V. doi:10.1073/pnas.87.4.1586. PMC 53520. PMID 2406724.
+^ Varshney, U; Lee, C P; RajBhandary, U L (15 March 1993). "From elongator tRNA to initiator tRNA". Proceedings of the National Academy of Sciences. 90 (6): 2305–2309. Bibcode:1993PNAS...90.2305V. doi:10.1073/pnas.90.6.2305. PMC 46075. PMID 8460138.
+^ Govindan A, Miryala S, Mondal S, Varshney U (November 2018). "Development of Assay Systems for Amber Codon Decoding at the Steps of Initiation and Elongation in Mycobacteria". Journal of Bacteriology. 200 (22). doi:10.1128/jb.00372-18. PMC 6199473. PMID 30181124.
+^ Vincent RM, Wright BW, Jaschke PR (April 2019). "Measuring Amber Initiator tRNA Orthogonality in a Genomically Recoded Organism". ACS Synthetic Biology. 8 (4): 675–685. doi:10.1021/acssynbio.9b00021. PMID 30856316. S2CID 75136654.
+^ White RJ (March 1997). "Regulation of RNA polymerases I and III by the retinoblastoma protein: a mechanism for growth control?". Trends in Biochemical Sciences. 22 (3): 77–80. doi:10.1016/S0968-0004(96)10067-0. PMID 9066256.
+^ Sharp S, Dingermann T, Söll D (September 1982). "The minimum intragenic sequences required for promotion of eukaryotic tRNA gene transcription". Nucleic Acids Research. 10 (18): 5393–5406. doi:10.1093/nar/10.18.5393. PMC 320884. PMID 6924209.
+^ a b Dieci G, Fiorino G, Castelnuovo M, Teichmann M, Pagano A (December 2007). "The expanding RNA polymerase III transcriptome". Trends in Genetics. 23 (12): 614–622. doi:10.1016/j.tig.2007.09.001. hdl:11381/1706964. PMID 17977614.
+^ Tocchini-Valentini GD, Fruscoloni P, Tocchini-Valentini GP (December 2009). "Processing of multiple-intron-containing pretRNA". Proceedings of the National Academy of Sciences of the United States of America. 106 (48): 20246–20251. Bibcode:2009PNAS..10620246T. doi:10.1073/pnas.0911658106. PMC 2787110. PMID 19910528.
+^ Abelson J, Trotta CR, Li H (May 1998). "tRNA splicing". The Journal of Biological Chemistry. 273 (21): 12685–12688. doi:10.1074/jbc.273.21.12685. PMID 9582290.
+^ a b Soma A (2014). "Circularly permuted tRNA genes: their expression and implications for their physiological relevance and development". Frontiers in Genetics. 5: 63. doi:10.3389/fgene.2014.00063. PMC 3978253. PMID 24744771.
+^ Frank DN, Pace NR (1998). "Ribonuclease P: unity and diversity in a tRNA processing ribozyme". Annual Review of Biochemistry. 67 (1): 153–180. doi:10.1146/annurev.biochem.67.1.153. PMID 9759486.
+^ Ceballos M, Vioque A (2007). "tRNase Z". Protein and Peptide Letters. 14 (2): 137–145. doi:10.2174/092986607779816050. PMID 17305600.
+^ Randau L, Schröder I, Söll D (May 2008). "Life without RNase P". Nature. 453 (7191): 120–123. Bibcode:2008Natur.453..120R. doi:10.1038/nature06833. PMID 18451863. S2CID 3103527.
+^ Weiner AM (October 2004). "tRNA maturation: RNA polymerization without a nucleic acid template". Current Biology. 14 (20): R883-5. Bibcode:2004CBio...14.R883W. doi:10.1016/j.cub.2004.09.069. PMID 15498478.
+^ Kutay U, Lipowsky G, Izaurralde E, Bischoff FR, Schwarzmaier P, Hartmann E, Görlich D (February 1998). "Identification of a tRNA-specific nuclear export receptor". Molecular Cell. 1 (3): 359–369. doi:10.1016/S1097-2765(00)80036-2. PMID 9660920.
+^ Arts GJ, Fornerod M, Mattaj IW (March 1998). "Identification of a nuclear export receptor for tRNA". Current Biology. 8 (6): 305–314. Bibcode:1998CBio....8..305A. doi:10.1016/S0960-9822(98)70130-7. PMID 9512417. S2CID 17803674.
+^ Arts GJ, Kuersten S, Romby P, Ehresmann B, Mattaj IW (December 1998). "The role of exportin-t in selective nuclear export of mature tRNAs". The EMBO Journal. 17 (24): 7430–7441. doi:10.1093/emboj/17.24.7430. PMC 1171087. PMID 9857198.
+^ Yoshihisa T, Yunoki-Esaki K, Ohshima C, Tanaka N, Endo T (August 2003). "Possibility of cytoplasmic pre-tRNA splicing: the yeast tRNA splicing endonuclease mainly localizes on the mitochondria". Molecular Biology of the Cell. 14 (8): 3266–3279. doi:10.1091/mbc.E02-11-0757. PMC 181566. PMID 12925762.
+^ Zamecnik, Paul Charles. "Effect of increasing concentrations of ATP on the incorporation of C14-ATP into RNA of pH 5 fraction". collections.countway.harvard.edu. Retrieved 2024-02-28.
+^ Kresge, Nicole; Simoni, Robert D.; Hill, Robert L. (October 7, 2005). "The Discovery of tRNA by Paul C. Zamecnik". Journal of Biological Chemistry. 280 (40): e37–e39. doi:10.1016/S0021-9258(20)79029-0 – via www.jbc.org.
+^ Hoagland, Mahlon B. (1959). "Nucleic Acids and Proteins". Scientific American. 201 (6): 55–61. ISSN 0036-8733.
+^ Clark BF (October 2006). "The crystal structure of tRNA" (PDF). Journal of Biosciences. 31 (4): 453–457. doi:10.1007/BF02705184. PMID 17206065. S2CID 19558731.
+^ Holley RW, Apgar J, Everett GA, Madison JT, Marquisee M, Merrill SH, Penswick JR, Zamir A (March 1965). "Structure of a Ribonucleic Acid". Science. 147 (3664): 1462–1465. Bibcode:1965Sci...147.1462H. doi:10.1126/science.147.3664.1462. PMID 14263761. S2CID 40989800.
+^ "Obituary". The New York Times. July 4, 1991.
+^ "The Nobel Prize in Physiology or Medicine 1968: Robert W. Holley – Facts". Nobel Prize Outreach AB. 2022. Retrieved 18 March 2022.
+^ Ladner JE, Jack A, Robertus JD, Brown RS, Rhodes D, Clark BF, Klug A (November 1975). "Structure of yeast phenylalanine transfer RNA at 2.5 A resolution". Proceedings of the National Academy of Sciences of the United States of America. 72 (11): 4414–4418. Bibcode:1975PNAS...72.4414L. doi:10.1073/pnas.72.11.4414. PMC 388732. PMID 1105583.
+^ Kim SH, Quigley GJ, Suddath FL, McPherson A, Sneden D, Kim JJ, Weinzierl J, Rich A (January 1973). "Three-dimensional structure of yeast phenylalanine transfer RNA: folding of the polynucleotide chain". Science. 179 (4070): 285–288. Bibcode:1973Sci...179..285K. doi:10.1126/science.179.4070.285. PMID 4566654. S2CID 28916938.
+^ Zhang R, Noordam L, Ou X, Ma B, Li Y, Das P, Shi S, Liu J, Wang L, Li P, Verstegen MM, Reddy DS, van der Laan LJ, Peppelenbosch MP, Kwekkeboom J, Smits R, Pan Q (January 2021). "The biological process of lysine-tRNA charging is therapeutically targetable in liver cancer". Liver Int. 41 (1): 206–219. doi:10.1111/liv.14692. PMC 7820958. PMID 33084231.
+^ Ou X, Ma B, Zhang R, Miao Z, Cheng A, Peppelenbosch MP, Pan Q (June 2020). "A simplified qPCR method revealing tRNAome remodeling upon infection by genotype 3 hepatitis E virus". FEBS Letters. 594 (12): 2005–2015. doi:10.1002/1873-3468.13764. hdl:1765/126038. PMID 32133647.
+tRNAdb (updated and completely restructured version of Spritzls tRNA compilation)
+tRNA surprising role in breast cancer growth
+tRNA link to heart disease and stroke
+GtRNAdb: Collection of tRNAs identified from complete genomes
+HGNC: Gene nomenclature of human tRNAs
+Molecule of the Month © RCSB Protein Data Bank: Transfer RNA Aminoacyl-tRNA Synthetases Elongation Factors
+Transfer RNA
+Aminoacyl-tRNA Synthetases
+Elongation Factors
+Rfam entry for tRNA
+v
+t
+e
+Nucleobases
+Nucleosides
+Nucleotides
+Deoxynucleotides
+Messenger precursor, heterogenous nuclear
+precursor, heterogenous nuclear
+modified Messenger
+Transfer
+Ribosomal
+Transfer-messenger
+Interferential Micro Small interfering Piwi-interacting
+Micro
+Small interfering
+Piwi-interacting
+Antisense
+Processual Small nuclear Small nucleolar Small Cajal Body RNAs Y RNA
+Small nuclear
+Small nucleolar
+Small Cajal Body RNAs
+Y RNA
+Enhancer RNAs
+Guide
+Ribozyme
+Small hairpin
+Small temporal
+Trans-acting small interfering
+Subgenomic messenger
+Organellar Chloroplast Mitochondrial
+Chloroplast
+Mitochondrial
+Complementary
+Deoxyribozyme
+Genomic
+Hachimoji
+Multicopy single-stranded
+Xeno Glycol Threose Hexose
+Glycol
+Threose
+Hexose
+Locked
+Peptide
+Morpholino
+Phagemid
+Plasmid
+Lambda phage
+Cosmid
+Fosmid
+Artificial chromosomes P1-derived Bacterial Yeast Human
+P1-derived
+Bacterial
+Yeast
+Human
+Category
+v
+t
+e
+Carnitine palmitoyltransferase I
+Long-chain-fatty-acid—CoA ligase
+Kynureninase
+Monoamine oxidase
+Adenylate kinase
+Creatine kinase
+Coenzyme Q – cytochrome c reductase
+Cytochrome c
+NADH dehydrogenase
+Succinate dehydrogenase
+Dihydroorotate dehydrogenase
+Malate-aspartate shuttle
+Glycerol phosphate shuttle
+Cholesterol side-chain cleavage enzyme
+Steroid 11-beta-hydroxylase
+Aldosterone synthase
+Glutamate aspartate transporter
+Glycerol-3-phosphate dehydrogenase
+ATP synthase
+Carnitine palmitoyltransferase II
+Uncoupling protein
+Citrate synthase
+Aconitase
+Isocitrate dehydrogenase
+Oxoglutarate dehydrogenase complex
+Succinyl coenzyme A synthetase
+Fumarase
+Malate dehydrogenase
+Aspartate transaminase
+Glutamate dehydrogenase
+Pyruvate dehydrogenase complex
+Carbamoyl phosphate synthetase I
+Ornithine trans

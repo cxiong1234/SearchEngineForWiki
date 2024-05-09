@@ -1,0 +1,43 @@
+Protein structure
+X-ray crystallography
+NMR Structure Determination
+www.wwpdb.org
+ebi.ac.uk
+www.rcsb.org
+bmrb.io
+pdbj.org
+The Protein Data Bank (PDB)[1] is a database for the three-dimensional structural data of large biological molecules such as proteins and nucleic acids, which is overseen by the Worldwide Protein Data Bank (wwPDB). These structural data are obtained and deposited by biologists and biochemists worldwide through the use of experimental methodologies such as X-ray crystallography, NMR spectroscopy, and, increasingly, cryo-electron microscopy. All submitted data are reviewed by expert biocurators and, once approved, are made freely available on the Internet under the CC0 Public Domain Dedication.[2] Global access to the data is provided by the websites of the wwPDB member organisations (PDBe,[3] PDBj,[4] RCSB PDB,[5] and BMRB[6]).
+The PDB is a key in areas of structural biology, such as structural genomics. Most major scientific journals and some funding agencies now require scientists to submit their structure data to the PDB. Many other databases use protein structures deposited in the PDB. For example, SCOP and CATH classify protein structures, while PDBsum provides a graphic overview of PDB entries using information from other sources, such as Gene Ontology.[7][8]
+Two forces converged to initiate the PDB: a small but growing collection of sets of protein structure data determined by X-ray diffraction; and the newly available (1968) molecular graphics display, the Brookhaven RAster Display (BRAD), to visualize these protein structures in 3-D. In 1969, with the sponsorship of Walter Hamilton at the Brookhaven National Laboratory, Edgar Meyer (Texas A&M University) began to write software to store atomic coordinate files in a common format to make them available for geometric and graphical evaluation. By 1971, one of Meyer's programs, SEARCH, enabled researchers to remotely access information from the database to study protein structures offline.[9] SEARCH was instrumental in enabling networking, thus marking the functional beginning of the PDB.
+The Protein Data Bank was announced in October 1971 in Nature New Biology[10] as a joint venture between Cambridge Crystallographic Data Centre, UK and Brookhaven National Laboratory, US.
+Upon Hamilton's death in 1973, Tom Koetzle took over direction of the PDB for the subsequent 20 years. In January 1994, Joel Sussman of Israel's Weizmann Institute of Science was appointed head of the PDB. In October 1998,[11] the PDB was transferred to the Research Collaboratory for Structural Bioinformatics (RCSB);[12] the transfer was completed in June 1999. The new director was Helen M. Berman of Rutgers University (one of the managing institutions of the RCSB, the other being the San Diego Supercomputer Center at UC San Diego).[13] In 2003, with the formation of the wwPDB, the PDB became an international organization. The founding members are PDBe (Europe),[3] RCSB (US), and PDBj (Japan).[4] The BMRB[6] joined in 2006. Each of the four members of wwPDB can act as deposition, data processing and distribution centers for PDB data. The data processing refers to the fact that wwPDB staff review and annotate each submitted entry.[14] The data are then automatically checked for plausibility (the source code[15] for this validation software has been made available to the public at no charge).
+The PDB database is updated weekly (UTC+0 Wednesday), along with its holdings list.[17] As of 10 January 2023[update], the PDB comprised:
+Most structures are determined by X-ray diffraction, but about 7% of structures are determined by protein NMR. When using X-ray diffraction, approximations of the coordinates of the atoms of the protein are obtained, whereas using NMR, the distance between pairs of atoms of the protein is estimated. The final conformation of the protein is obtained from NMR by solving a distance geometry problem. After 2013, a growing number of proteins are determined by cryo-electron microscopy.
+For PDB structures determined by X-ray diffraction that have a structure factor file, their electron density map may be viewed. The data of such structures may be viewed on the three PDB websites.
+Historically, the number of structures in the PDB has grown at an approximately exponential rate, with 100 registered structures in 1982, 1,000 structures in 1993, 10,000 in 1999, 100,000 in 2014, and 200,000 in January 2023.[18][19]
+The file format initially used by the PDB was called the PDB file format. The original format was restricted by the width of computer punch cards to 80 characters per line. Around 1996, the "macromolecular Crystallographic Information file" format, mmCIF, which is an extension of the CIF format was phased in. mmCIF became the standard format for the PDB archive in 2014.[20] In 2019, the wwPDB announced that depositions for crystallographic methods would only be accepted in mmCIF format.[21]
+An XML version of PDB, called PDBML, was described in 2005.[22] The structure files can be downloaded in any of these three formats, though an increasing number of structures do not fit the legacy PDB format. Individual files are easily downloaded into graphics packages from Internet URLs:
+For PDB format files, use, e.g., http://www.pdb.org/pdb/files/4hhb.pdb.gz or http://pdbe.org/download/4hhb
+For PDBML (XML) files, use, e.g., http://www.pdb.org/pdb/files/4hhb.xml.gz or http://pdbe.org/pdbml/4hhb
+The "4hhb" is the PDB identifier. Each structure published in PDB receives a four-character alphanumeric identifier, its PDB ID. (This is not a unique identifier for biomolecules, because several structures for the same molecule—in different environments or conformations—may be contained in PDB with different PDB IDs.)
+The structure files may be viewed using one of several free and open source computer programs, including Jmol, Pymol, VMD, Molstar and Rasmol. Other non-free, shareware programs include ICM-Browser,[23] MDL Chime, UCSF Chimera, Swiss-PDB Viewer,[24] StarBiochem[25] (a Java-based interactive molecular viewer with integrated search of protein databank), Sirius, and VisProt3DS[26] (a tool for Protein Visualization in 3D stereoscopic view in anaglyph and other modes), and Discovery Studio. The RCSB PDB website contains an extensive list of both free and commercial molecule visualization programs and web browser plugins.
+Crystallographic database
+Protein structure
+Protein structure prediction
+Protein structure database
+PDBREPORT lists all anomalies (also errors) in PDB structures
+PDBsum—extracts data from other databases about PDB structures
+Proteopedia—a collaborative 3D encyclopedia of proteins and other molecules
+[1]
+^ wwPDB, Consortium (2019). "Protein Data Bank: the single global archive for 3D macromolecular structure data". Nucleic Acids Res. 47 (D1): 520–528. doi:10.1093/nar/gky949. PMC 6324056. PMID 30357364.
+^ wwPDB.org. "wwPDB: Usage Policies". www.wwpdb.org. Retrieved 2024-04-16.
+^ a b "PDBe home < Node < EMBL-EBI". pdbe.org.
+^ a b "Protein Data Bank Japan – PDB Japan – PDBj". pdbj.org.
+^ Bank, RCSB Protein Data. "RCSB PDB: Homepage". rcsb.org.
+^ a b "Biological Magnetic Resonance Bank". bmrb.wisc.edu.
+^ Berman, H. M. (January 2008). "The Protein Data Bank: a historical perspective" (PDF). Acta Crystallographica Section A. A64 (1): 88–95. doi:10.1107/S0108767307035623. PMID 18156675.
+^ Laskowski RA, Hutchinson EG, Michie AD, Wallace AC, Jones ML, Thornton JM (December 1997). "PDBsum: a Web-based database of summaries and analyses of all PDB structures". Trends Biochem. Sci. 22 (12): 488–90. doi:10.1016/S0968-0004(97)01140-7. PMID 9433130.
+^ Meyer EF (1997). "The first years of the Protein Data Bank". Protein Science. 6 (7). Cambridge University Press: 1591–1597. doi:10.1002/pro.5560060724. PMC 2143743. PMID 9232661.
+^ "Protein Data Bank". Nature New Biology. 233. 1971. doi:10.1038/newbio233223b0.
+^ Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE (January 2000). "The Protein Data Bank". Nucleic Acids Res. 28 (1): 235–242. doi:10.1093/nar/28.1.235. PMC 102472. PMID 10592235.
+^ "Research Collaboratory for Structur
