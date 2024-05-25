@@ -1,0 +1,206 @@
+Ancient DNA (aDNA) is DNA isolated from ancient specimens.[1][2] Due to degradation processes (including cross-linking, deamination and fragmentation)[3] ancient DNA is more degraded in comparison with contemporary genetic material.[4] Even under the best preservation conditions, there is an upper boundary of 0.4–1.5 million years for a sample to contain sufficient DNA for sequencing technologies.[5] The oldest sample ever sequenced is estimated to be 1.65 million years old.[6] Genetic material has been recovered from paleo/archaeological and historical skeletal material, mummified tissues, archival collections of non-frozen medical specimens, preserved plant remains, ice and from permafrost cores, marine and lake sediments and excavation dirt. In 2022, two-million year old genetic material was found in Greenland, and is currently considered the oldest DNA discovered so far.[7][8]
+The first study of what would come to be called aDNA was conducted in 1984, when Russ Higuchi and colleagues at the University of California, Berkeley reported that traces of DNA from a museum specimen of the Quagga not only remained in the specimen over 150 years after the death of the individual, but could be extracted and sequenced.[9] Over the next two years, through investigations into natural and artificially mummified specimens, Svante Pääbo confirmed that this phenomenon was not limited to relatively recent museum specimens but could apparently be replicated in a range of mummified human samples that dated as far back as several thousand years.[10][11][12]
+The laborious processes that were required at that time to sequence such DNA (through bacterial cloning) were an effective brake on the study of ancient DNA (aDNA) and the field of museomics. However, with the development of the Polymerase Chain Reaction (PCR) in the late 1980s, the field began to progress rapidly.[13][14][15] Double primer PCR amplification of aDNA (jumping-PCR) can produce highly skewed and non-authentic sequence artifacts. Multiple primer, nested PCR strategy was used to overcome those shortcomings.
+The post-PCR era heralded a wave of publications as numerous research groups claimed success in isolating aDNA. Soon a series of incredible findings had been published, claiming authentic DNA could be extracted from specimens that were millions of years old, into the realms of what Lindahl (1993b) has labelled Antediluvian DNA.[16] The majority of such claims were based on the retrieval of DNA from organisms preserved in amber. Insects such as stingless bees,[17][18] termites,[19] and wood gnats,[20] as well as plant[21] and bacterial[22] sequences were said to have been extracted from Dominican amber dating to the Oligocene epoch. Still older sources of Lebanese amber-encased weevils, dating to within the Cretaceous epoch, reportedly also yielded authentic DNA.[23] Claims of DNA retrieval were not limited to amber.
+Reports of several sediment-preserved plant remains dating to the Miocene were published.[24][25] Then in 1994, Woodward et al. reported what at the time was called the most exciting results to date[26] — mitochondrial cytochrome b sequences that had apparently been extracted from dinosaur bones dating to more than 80 million years ago. When in 1995 two further studies reported dinosaur DNA sequences extracted from a Cretaceous egg,[27][28] it seemed that the field would revolutionize knowledge of the Earth's evolutionary past. Even these extraordinary ages were topped by the claimed retrieval of 250-million-year-old halobacterial sequences from halite.[29][30]
+The development of a better understanding of the kinetics of DNA preservation, the risks of sample contamination and other complicating factors led the field to view these results more skeptically. Numerous careful attempts failed to replicate many of the findings, and all of the decade's claims of multi-million year old aDNA would come to be dismissed as inauthentic.[31]
+Single primer extension amplification was introduced in 2007 to address postmortem DNA modification damage.[32] Since 2009 the field of aDNA studies has been revolutionized with the introduction of much cheaper research techniques.[33] The use of high-throughput Next Generation Sequencing (NGS) techniques in the field of ancient DNA research has been essential for reconstructing the genomes of ancient or extinct organisms. A single-stranded DNA (ssDNA) library preparation method has sparked great interest among ancient DNA (aDNA) researchers.[34][35]
+In addition to these technical innovations, the start of the decade saw the field begin to develop better standards and criteria for evaluating DNA results, as well as a better understanding of the potential pitfalls.[31][36]
+On 7 December 2022, The New York Times reported that two-million year old genetic material was found in Greenland, and is currently considered the oldest DNA discovered so far.[7][8]
+Due to degradation processes (including cross-linking, deamination and fragmentation),[3] ancient DNA is of lower quality than modern genetic material.[4] The damage characteristics and ability of aDNA to survive through time restricts possible analyses and places an upper limit on the age of successful samples.[4] There is a theoretical correlation between time and DNA degradation,[37] although differences in environmental conditions complicate matters. Samples subjected to different conditions are unlikely to predictably align to a uniform age-degradation relationship.[38] The environmental effects may even matter after excavation, as DNA decay-rates may increase,[39] particularly under fluctuating storage conditions.[40] Even under the best preservation conditions, there is an upper boundary of 0.4 to 1.5 million years for a sample to contain sufficient DNA for contemporary sequencing technologies.[5]
+Research into the decay of mitochondrial and nuclear DNA in moa bones has modelled mitochondrial DNA degradation to an average length of 1 base pair after 6,830,000 years at −5 °C.[4] The decay kinetics have been measured by accelerated aging experiments, further displaying the strong influence of storage temperature and humidity on DNA decay.[41] Nuclear DNA degrades at least twice as fast as mtDNA. Early studies that reported recovery of much older DNA, for example from Cretaceous dinosaur remains, may have stemmed from contamination of the sample.
+A critical review of ancient DNA literature through the development of the field highlights that few studies have succeeded in amplifying DNA from remains older than several hundred thousand years.[42] A greater appreciation for the risks of environmental contamination and studies on the chemical stability of DNA have raised concerns over previously reported results. The alleged dinosaur DNA was later revealed to be human Y-chromosome.[43] The DNA reported from encapsulated halobacteria has been criticized based on its similarity to modern bacteria, which hints at contamination,[36] or they may be the product of long-term, low-level metabolic activity.[44]
+aDNA may contain a large number of postmortem mutations, increasing with time. Some regions of polynucleotide are more susceptible to this degradation, allowing erroneous sequence data to bypass statistical filters used to check the validity of data.[31] Due to sequencing errors, great caution should be applied to interpretation of population size.[45] Substitutions resulting from deamination of cytosine residues are vastly over-represented in the ancient DNA sequences. Miscoding of C to T and G to A accounts for the majority of errors.[46]
+Another problem with ancient DNA samples is contamination by modern human DNA and by microbial DNA (most of which is also ancient).[47][48] New methods have emerged in recent years to prevent possible contamination of aDNA samples, including conducting extractions under extreme sterile conditions, using special adapters to identify endogenous molecules of the sample (distinguished from those introduced during analysis), and applying bioinformatics to resulting sequences based on known reads in order to approximate rates of contamination.[49][50]
+Development in the aDNA field in the 2000s increased the importance of authenticating recovered DNA to confirm that it is indeed ancient and not the result of recent contamination. As DNA degrades over time, the nucleotides that make up the DNA may change, especially at the ends of the DNA molecules. The deamination of cytosine to uracil at the ends of DNA molecules has become a way of authentication. During DNA sequencing, the DNA polymerases will incorporate an adenine (A) across from the uracil (U), leading to cytosine (C) to thymine (T) substitutions in the aDNA data.[51] These substitutions increase in frequency as the sample gets older. Frequency measurement of the C-T level, ancient DNA damage, can be made using various software such as mapDamage2.0 or PMDtools [52][53] and interactively on metaDMG.[54] Due to hydrolytic depurination, DNA fragments into smaller pieces, leading to single-stranded breaks. Combined with the damage pattern, this short fragment length can also help differentiate between modern and ancient DNA.[55][56]
+Despite the problems associated with 'antediluvian' DNA, a wide and ever-increasing range of aDNA sequences have now been published from a range of animal and plant taxa. Tissues examined include artificially or naturally mummified animal remains,[9][57] bone,[58][59][60][61] paleofaeces,[62][63] alcohol preserved specimens,[64] rodent middens,[65] dried plant remains,[66][67] and recently, extractions of animal and plant DNA directly from soil samples.[68]
+In June 2013, a group of researchers including Eske Willerslev, Marcus Thomas Pius Gilbert and Orlando Ludovic of the Centre for Geogenetics, Natural History Museum of Denmark at the University of Copenhagen, announced that they had sequenced the DNA of a 560–780 thousand year old horse, using material extracted from a leg bone found buried in permafrost in Canada's Yukon territory.[69][70][71] A German team also reported in 2013 the reconstructed mitochondrial genome of a bear, Ursus deningeri, more than 300,000 years old, proving that authentic ancient DNA can be preserved for hundreds of thousand years outside of permafrost.[72] The DNA sequence of even older nuclear DNA was reported in 2021 from the permafrost-preserved teeth of two Siberian mammoths, both over a million years old.[6][73]
+Researchers in 2016 measured chloroplast DNA in marine sediment cores, and found diatom DNA dating back to 1.4 million years.[74] This DNA had a half-life significantly longer than previous research, of up to 15,000 years. Kirkpatrick's team also found that DNA only decayed along a half-life rate until about 100 thousand years, at which point it followed a slower, power-law decay rate.[74]
+Due to the considerable anthropological, archaeological, and public interest directed toward human remains, they have received considerable attention from the DNA community. There are also more profound contamination issues, since the specimens belong to the same species as the researchers collecting and evaluating the samples.
+Due to the morphological preservation in mummies, many studies from the 1990s and 2000s used mummified tissue as a source of ancient human DNA. Examples include both naturally preserved specimens, such as the Ötzi the Iceman frozen in a glacier[76] and bodies preserved through rapid desiccation at high altitude in the Andes,[12][77] as well as various chemically treated preserved tissue such as the mummies of ancient Egypt.[78] However, mummified remains are a limited resource. The majority of human aDNA studies have focused on extracting DNA from two sources much more common in the archaeological record: bones and teeth. The bone that is most often used for DNA extraction is the petrous ear bone, since its dense structure provides good conditions for DNA preservation.[79] Several other sources have also yielded DNA, including paleofaeces,[80] and hair.[81][82] Contamination remains a major problem when working on ancient human material.
+Ancient pathogen DNA has been successfully retrieved from samples dating to more than 5,000 years old in humans and as long as 17,000 years ago in other species. In addition to the usual sources of mummified tissue, bones and teeth, such studies have also examined a range of other tissue samples, including calcified pleura,[83] tissue embedded in paraffin,[84][85] and formalin-fixed tissue.[86] Efficient computational tools have been developed for pathogen and microorganism aDNA analyses in a small (QIIME[87]) and large scale (FALCON [88]).
+Taking preventative measures in their procedure against such contamination though, a 2012 study analyzed bone samples of a Neanderthal group in the El Sidrón cave, finding new insights on potential kinship and genetic diversity from the aDNA.[89] In November 2015, scientists reported finding a 110,000-year-old tooth containing DNA from the Denisovan hominin, an extinct species of human in the genus Homo.[90][91]
+The research has added new complexity to the peopling of Eurasia. A study from 2018 [92] showed that a Bronze Age mass migration had greatly impacted the genetic makeup of the British Isles, bringing with it the Bell Beaker culture from mainland Europe.
+It has also revealed new information about links between the ancestors of Central Asians and the indigenous peoples of the Americas. In Africa, older DNA degrades quickly due to the warmer tropical climate, although, in September 2017, ancient DNA samples, as old as 8,100 years old, have been reported.[93]
+Moreover, ancient DNA has helped researchers to estimate modern human divergence.[94] By sequencing African genomes from three Stone Age hunter gatherers (2000 years old) and four Iron Age farmers (300 to 500 years old), Schlebusch and colleagues were able to push back the date of the earliest divergence between human populations to 350,000 to 260,000 years ago.
+As of 2021, the oldest completely reconstructed human genomes are ~45,000 years old.[95][75] Such genetic data provides insights into the migration and genetic history – e.g. of Europe – including about interbreeding between archaic and modern humans like a common admixture between initial European modern humans and Neanderthals.[96][75][97]
+Alan Cooper
+Kirsten Bos
+Joachim Burger
+M. Thomas P. Gilbert
+Johannes Krause
+Svante Pääbo
+Hendrik Poinar
+David Reich
+Beth Shapiro
+Mark G. Thomas
+Eske Willerslev
+Carles Lalueza-Fox
+Ancient pathogen genomics
+Ancient protein
+Archaeogenetics
+Environmental DNA (eDNA)
+List of DNA tested mummies
+List of haplogroups of historic people
+Molecular paleontology
+Paleogenetics
+Sedimentary ancient DNA (sedaDNA)
+^ Pevsner J (2015). Bioinformatics and Functional Genomics (3rd ed.). Wiley-Blackwell. ISBN 978-1118581780.
+^ Jones M (2016). Unlocking the Past: How Archaeologists Are Rewriting Human History with Ancient DNA. Arcade. ISBN 978-1628724479.
+^ a b Anderson LA (May 2023). "A chemical framework for the preservation of fossil vertebrate cells and soft tissues". Earth-Science Reviews. 240: 104367. doi:10.1016/j.earscirev.2023.104367. S2CID 257326012.
+^ a b c d Allentoft ME, Collins M, Harker D, Haile J, Oskam CL, Hale ML, et al. (December 2012). "The half-life of DNA in bone: measuring decay kinetics in 158 dated fossils". Proceedings. Biological Sciences. 279 (1748): 4724–33. doi:10.1098/rspb.2012.1745. PMC 3497090. PMID 23055061.
+^ a b Willerslev E, Hansen AJ, Rønn R, Brand TB, Barnes I, Wiuf C, et al. (January 2004). "Long-term persistence of bacterial DNA" (PDF). Current Biology. 14 (1): R9-10. doi:10.1016/j.cub.2003.12.012. PMID 14711425. S2CID 12227538.
+^ a b van der Valk T, Pečnerová P, Díez-Del-Molino D, Bergström A, Oppenheimer J, Hartmann S, et al. (March 2021). "Million-year-old DNA sheds light on the genomic history of mammoths". Nature. 591 (7849): 265–269. Bibcode:2021Natur.591..265V. doi:10.1038/s41586-021-03224-9. PMC 7116897. PMID 33597750.
+^ a b Zimmer, Carl (7 December 2022). "Oldest Known DNA Offers Glimpse of a Once-Lush Arctic - In Greenland's permafrost, scientists discovered two-million-year-old genetic material from scores of plant and animal species, including mastodons, geese, lemmings and ants". The New York Times. Retrieved 7 December 2022.
+^ a b Kjær, Kurt H.; et al. (7 December 2022). "A 2-million-year-old ecosystem in Greenland uncovered by environmental DNA". Nature. 612 (7939): 283–291. Bibcode:2022Natur.612..283K. doi:10.1038/s41586-022-05453-y. PMC 9729109. PMID 36477129.
+^ a b Higuchi R, Bowman B, Freiberger M, Ryder OA, Wilson AC (1984). "DNA sequences from the quagga, an extinct member of the horse family". Nature. 312 (5991): 282–4. Bibcode:1984Natur.312..282H. doi:10.1038/312282a0. PMID 6504142. S2CID 4313241.
+^ Pääbo S (1985a). "Preservation of DNA in ancient Egyptian mummies". J. Archaeol. Sci. 12 (6): 411–17. doi:10.1016/0305-4403(85)90002-0.
+^ Pääbo S (1985b). "Molecular cloning of Ancient Egyptian mummy DNA". Nature. 314 (6012): 644–5. Bibcode:1985Natur.314..644P. doi:10.1038/314644a0. PMID 3990798. S2CID 1358295.
+^ a b Pääbo S (1986). "Molecular genetic investigations of ancient human remains". Cold Spring Harbor Symposia on Quantitative Biology. 51 (Pt 1): 441–6. doi:10.1101/SQB.1986.051.01.053. PMID 3107879.
+^ Mullis KB, Faloona FA (1987). "Specific synthesis of DNA in vitro via a polymerase-catalyzed chain reaction". Recombinant DNA Part F. Methods in Enzymology. Vol. 155. pp. 335–50. doi:10.1016/0076-6879(87)55023-6. ISBN 978-0-12-182056-5. PMID 3431465.
+^ Raxworthy, Christopher J.; Smith, Brian Tilston (November 2021). "Mining museums for historical DNA: advances and challenges in museomics" (PDF). Trends in Ecology & Evolution. 36 (11): 1049–1060. doi:10.1016/j.tree.2021.07.009. PMID 34456066. S2CID 239687836. Retrieved 27 June 2022.
+^ Saiki RK, Gelfand DH, Stoffel S, Scharf SJ, Higuchi R, Horn GT, et al. (January 1988). "Primer-directed enzymatic amplification of DNA with a thermostable DNA polymerase". Science. 239 (4839): 487–91. Bibcode:1988Sci...239..487S. doi:10.1126/science.239.4839.487. PMID 2448875.
+^ Lindahl T (October 1993). "Recovery of antediluvian DNA". Nature. 365 (6448): 700. Bibcode:1993Natur.365..700L. doi:10.1038/365700a0. PMID 8413647. S2CID 4365447.
+^ Cano RJ, Poinar H, Poinar Jr GO (1992a). "Isolation and partial characterisation of DNA from the bee Problebeia dominicana (Apidae:Hymenoptera) in 25–40 million year old amber". Med Sci Res. 20: 249–51.
+^ Cano RJ, Poinar HN, Roubik DW, Poinar Jr GO (1992b). "Enzymatic amplification and nucleotide sequencing of portions of the 18S rRNA gene of the bee Problebeia dominicana (Apidae:Hymenoptera) isolated from 25–40 million year old Dominican amber". Med Sci Res. 20: 619–22.
+^ Matson E, Ottesen E, Leadbetter J (2007). "Extracting DNA from the gut microbes of the termite (Zootermopsis nevadensis)". Journal of Visualized Experiments (4): 195. doi:10.3791/195. PMC 2556161. PMID 18979000.
+^ DeSalle R, Grimaldi D (December 1994). "Very old DNA". Current Opinion in Genetics & Development. 4 (6): 810–5. doi:10.1016/0959-437x(94)90064-7. PMID 7888749.
+^ Poinar H, Cano R, Poinar G (1993). "DNA from an extinct plant". Nature. 363 (6431): 677. Bibcode:1993Natur.363..677P. doi:10.1038/363677a0. S2CID 4330200.
+^ Cano RJ, Borucki MK, Higby-Schweitzer M, Poinar HN, Poinar GO, Pollard KJ (June 1994). "Bacillus DNA in fossil bees: an ancient symbiosis?". Applied and Environmental Microbiology. 60 (6): 2164–2167. Bibcode:1994ApEnM..60.2164C. doi:10.1128/aem.60.6.2164-2167.1994. PMC 201618. PMID 8031102.
+^ Cano RJ, Poinar HN, Pieniazek NJ, Acra A, Poinar GO (June 1993). "Amplification and sequencing of DNA from a 120-135-million-year-old weevil". Nature. 363 (6429): 536–538. Bibcode:1993Natur.363..536C. doi:10.1038/363536a0. PMID 8505978. S2CID 4243196.
+^ Golenberg EM (September 1991). "Amplification and analysis of Miocene plant fossil DNA". Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences. 333 (1268): 419–26, discussion 426–7. doi:10.1098/rstb.1991.0092. PMID 1684052.
+^ Golenberg EM, Giannasi DE, Clegg MT, Smiley CJ, Durbin M, Henderson D, Zurawski G (April 1990). "Chloroplast DNA sequence from a miocene Magnolia species". Nature. 344 (6267): 656–8. Bibcode:1990Natur.344..656G. doi:10.1038/344656a0. PMID 2325772. S2CID 26577394.
+^ Woodward SR, Weyand NJ, Bunnell M (November 1994). "DNA sequence from Cretaceous period bone fragments". Science. 266 (5188): 1229–32. Bibcode:1994Sci...266.1229W. doi:10.1126/science.7973705. PMID 7973705.
+^ An CC, Li Y, Zhu YX (1995). "Molecular cloning and sequencing of the 18S rDNA from specialized dinosaur egg fossil found in Xixia Henan, China". Acta Sci Nat Univ Pekinensis. 31: 140–47.
+^ Li Y, An C-C, Zhu Y-X (1995). "DNA isolation and sequence analysis of dinosaur DNA from Cretaceous dinosaur egg in Xixia Henan, China". Acta Sci Nat Univ Pekinensis. 31: 148–52.
+^ Vreeland RH, Rosenzweig WD, Powers DW (October 2000). "Isolation of a 250 million-year-old halotolerant bacterium from a primary salt crystal". Nature. 407 (6806): 897–900. Bibcode:2000Natur.407..897V. doi:10.1038/35038060. PMID 11057666. S2CID 9879073.
+^ Fish SA, Shepherd TJ, McGenity TJ, Grant WD (May 2002). "Recovery of 16S ribosomal RNA gene fragments from ancient halite". Nature. 417 (6887): 432–6. Bibcode:2002Natur.417..432F. doi:10.1038/417432a. PMID 12024211. S2CID 4423309.
+^ a b c Pääbo S, Poinar H, Serre D, Jaenicke-Despres V, Hebler J, Rohland N, et al. (2004). "Genetic analyses from ancient DNA" (PDF). Annual Review of Genetics. 38 (1): 645–79. doi:10.1146/annurev.genet.37.110801.143214. PMID 15568989. Archived from the original (PDF) on December 17, 2008.
+^ Brotherton P, Endicott P, Sanchez JJ, Beaumont M, Barnett R, Austin J, Cooper A (2007). "Novel high-resolution characterization of ancient DNA reveals C > U-type base modification events as the sole cause of post mortem miscoding lesions". Nucleic Acids Research. 35 (17): 5717–28. doi:10.1093/nar/gkm588. PMC 2034480. PMID 17715147.
+^ Reich 2018.
+^ Wales N, Carøe C, Sandoval-Velasco M, Gamba C, Barnett R, Samaniego JA, et al. (December 2015). "New insights on single-stranded versus double-stranded DNA library preparation for ancient DNA". BioTechniques. 59 (6): 368–71. doi:10.2144/000114364. PMID 26651516.
+^ Bennett EA, Massilani D, Lizzo G, Daligault J, Geigl EM, Grange T (June 2014). "Library construction for ancient genomics: single strand or double strand?". BioTechniques. 56 (6): 289–90, 292–6, 298, passim. doi:10.2144/000114176. PMID 24924389.
+^ a b Nicholls H (February 2005). "Ancient DNA comes of age". PLOS Biology. 3 (2): e56. doi:10.1371/journal.pbio.0030056. PMC 548952. PMID 15719062.
+^ Hebsgaard MB, Phillips MJ, Willerslev E (May 2005). "Geologically ancient DNA: fact or artefact?". Trends in Microbiology. 13 (5): 212–20. doi:10.1016/j.tim.2005.03.010. PMID 15866038.
+^ Hansen AJ, Mitchell DL, Wiuf C, Paniker L, Brand TB, Binladen J, et al. (June 2006). "Crosslinks rather than strand breaks determine access to ancient DNA sequences from frozen sediments". Genetics. 173 (2): 1175–9. doi:10.1534/genetics.106.057349. PMC 1526502. PMID 16582426.
+^ Pruvost M, Schwarz R, Correia VB, Champlot S, Braguier S, Morel N, et al. (January 2007). "Freshly excavated fossil bones are best for amplification of ancient DNA". Proceedings of the National Academy of Sciences of the United States of America. 104 (3): 739–44. Bibcode:2007PNAS..104..739P. doi:10.1073/pnas.0610257104. PMC 1783384. PMID 17210911.
+^ Burger J, Hummel S, Hermann B, Henke W (June 1999). "DNA preservation: a microsatellite-DNA study on ancient skeletal remains". Electrophoresis. 20 (8): 1722–8. doi:10.1002/(sici)1522-2683(19990101)20:8<1722::aid-elps1722>3.0.co;2-4. PMID 10435438. S2CID 7325310.
+^ Grass RN, Heckel R, Puddu M, Paunescu D, Stark WJ (February 2015). "Robust chemical preservation of digital information on DNA in silica with error-correcting codes". Angewandte Chemie. 54 (8): 2552–5. doi:10.1002/anie.201411378. PMID 25650567.
+^ Willerslev E, Hansen AJ, Binladen J, Brand TB, Gilbert MT, Shapiro B, et al. (May 2003). "Diverse plant and animal genetic records from Holocene and Pleistocene sediments". Science. 300 (5620): 791–5. Bibcode:2003Sci...300..791W. doi:10.1126/science.1084114. PMID 12702808. S2CID 1222227.
+^ Zischler H, Höss M, Handt O, von Haeseler A, van der Kuyl AC, Goudsmit J (May 1995). "Detecting dinosaur DNA". Science. 268 (5214): 1192–3, author reply 1194. Bibcode:1995Sci...268.1191B. doi:10.1126/science.7605504. PMID 7605504.
+^ Johnson SS, Hebsgaard MB, Christensen TR, Mastepanov M, Nielsen R, Munch K, et al. (September 2007). "Ancient bacteria show evidence of DNA repair". Proceedings of the National Academy of Sciences of the United States of America. 104 (36): 14401–5. Bibcode:2007PNAS..10414401J. doi:10.1073/pnas.0706787104. PMC 1958816. PMID 17728401.
+^ Johnson PL, Slatkin M (January 2008). "Accounting for bias from sequencing error in population genetic estimates" (Free full text). Molecular Biology and Evolution. 25 (1): 199–206. doi:10.1093/molbev/msm239. PMID 17981928.
+^ Briggs AW, Stenzel U, Johnson PL, Green RE, Kelso J, Prüfer K, et al. (September 2007). "Patterns of damage in genomic DNA sequences from a Neandertal". Proceedings of the National Academy of Sciences of the United States of America. 104 (37): 14616–21. Bibcode:2007PNAS..10414616B. doi:10.1073/pnas.0704665104. PMC 1976210. PMID 17715061.
+^ Gansauge MT, Meyer M (September 2014). "Selective enrichment of damaged DNA molecules for ancient genome sequencing". Genome Research. 24 (9): 1543–9. doi:10.1101/gr.174201.114. PMC 4158764. PMID 25081630.
+^ Pratas D, Hosseini M, Grilo G, Pinho AJ, Silva RM, Caetano T, et al. (September 2018). "Metagenomic Composition Analysis of an Ancient Sequenced Polar Bear Jawbone from Svalbard". Genes. 9 (9): 445. doi:10.3390/genes9090445. PMC 6162538. PMID 30200636.
+^ Slatkin M, Racimo F (June 2016). "Ancient DNA and human history". Proceedings of the National Academy of Sciences of the United States of America. 113 (23): 6380–7. Bibcode:2016PNAS..113.6380S. doi:10.1073/pnas.1524306113. PMC 4988579. PMID 27274045.
+^ Borry M, Hübner A, Rohrlach AB, Warinner C (2021-07-27). "PyDamage: automated ancient damage identification and estimation for contigs in ancient DNA de novo assembly". PeerJ. 9: e11845. doi:10.7717/peerj.11845. PMC 8323603. PMID 34395085.
+^ Dabney, Jesse; Meyer, Matthias; Pääbo, Svante (1 July 2013). "Ancient DNA Damage". Cold Spring Harbor Perspectives in Biology. 5 (7): a012567. doi:10.1101/cshperspect.a012567. PMC 3685887. PMID 23729639.
+^ Jónsson, H; Ginolhac, A; Schubert, M; Johnson, PL; Orlando, L (1 July 2013). "mapDamage2.0: fast approximate Bayesian estimates of ancient DNA damage parameters". Bioinformatics. 29 (13): 1682–4. doi:10.1093/bioinformatics/btt193. PMC 3694634. PMID 23613487.
+^ Skoglund, P; Northoff, BH; Shunkov, MV; Derevianko, AP; Pääbo, S; Krause, J; Jakobsson, M (11 February 2014). "Separating endogenous ancient DNA from modern day contamination in a Siberian Neandertal". Proceedings of the National Academy of Sciences of the United States of America. 111 (6): 2229–34. doi:10.1073/pnas.1318934111. PMC 3926038. PMID 24469802.
+^ Michelsen, Christian; Pedersen, Mikkel Winther; Fernandez-Guerra, Antonio; Zhao, Lei; Petersen, Troels C.; Korneliussen, Thorfinn Sand (9 December 2022). "metaDMG – A Fast and Accurate Ancient DNA Damage Toolkit for Metagenomic Data": 2022.12.06.519264. doi:10.1101/2022.12.06.519264. S2CID 254536966. {{cite journal}}: Cite journal requires |journal= (help)
+^ Krause, Johannes; Briggs, Adrian W.; Kircher, Martin; Maricic, Tomislav; Zwyns, Nicolas; Derevianko, Anatoli; Pääbo, Svante (9 February 2010). "A Complete mtDNA Genome of an Early Modern Human from Kostenki, Russia". Current Biology. 20 (3): 231–236. doi:10.1016/j.cub.2009.11.068. PMID 20045327. S2CID 16440465.
+^ Pochon, Zoé; Bergfeldt, Nora; Kırdök, Emrah; Vicente, Mário; Naidoo, Thijessen; Valk, Tom van der; Altınışık, N. Ezgi; Krzewińska, Maja; Dalen, Love; Götherström, Anders; Mirabello, Claudio; Unneberg, Per; Oskolkov, Nikolay (5 October 2022). "aMeta: an accurate and memory-efficient ancient Metagenomic profiling workflow": 2022.10.03.510579. doi:10.1101/2022.10.03.510579. S2CID 252763827. {{cite journal}}: Cite journal requires |journal= (help)
+^ Thomas RH, Schaffner W, Wilson AC, Pääbo S (August 1989). "DNA phylogeny of the extinct marsupial wolf". Nature. 340 (6233): 465–7. Bibcode:1989Natur.340..465T. doi:10.1038/340465a0. PMID 2755507. S2CID 4310500.
+^ Hagelberg E, Sykes B, Hedges R (November 1989). "Ancient bone DNA amplified". Nature. 342 (6249): 485. Bibcode:1989Natur.342..485H. doi:10.1038/342485a0. PMID 2586623. S2CID 13434992.
+^ Cooper A, Mourer-Chauviré C, Chambers GK, von Haeseler A, Wilson AC, Pääbo S (September 1992). "Independent origins of New Zealand moas and kiwis". Proceedings of the National Academy of Sciences of the United States of America. 89 (18): 8741–4. Bibcode:1992PNAS...89.8741C. doi:10.1073/pnas.89.18.8741. PMC 49996. PMID 1528888.
+^ Hagelberg E, Thomas MG, Cook CE, Sher AV, Baryshnikov GF, Lister AM (August 1994). "DNA from ancient mammoth bones". Nature. 370 (6488): 333–4. Bibcode:1994Natur.370R.333H. doi:10.1038/370333b0. PMID 8047136. S2CID 8694387.
+^ Hänni C, Laudet V, Stehelin D, Taberlet P (December 1994). "Tracking the origins of the cave bear (Ursus spelaeus) by mitochondrial DNA sequencing". Proceedings of the National Academy of Sciences of the United States of America. 91 (25): 12336–40. Bibcode:1994PNAS...9112336H. doi:10.1073/pnas.91.25.12336. PMC 45432. PMID 7991628.
+^ Poinar HN, Hofreiter M, Spaulding WG, Martin PS, Stankiewicz BA, Bland H, et al. (July 1998). "Molecular coproscopy: dung and diet of the extinct ground sloth Nothrotheriops shastensis". Science. 281 (5375): 402–6. Bibcode:1998Sci...281..402P. doi:10.1126/science.281.5375.402. PMID 9665881.
+^ Hofreiter M, Poinar HN, Spaulding WG, Bauer K, Martin PS, Possnert G, Pääbo S (December 2000). "A molecular analysis of ground sloth diet through the last glaciation". Molecular Ecology. 9 (12): 1975–84. doi:10.1046/j.1365-294X.2000.01106.x. PMID 11123610. S2CID 22685601.
+^ Junqueira AC, Lessinger AC, Azeredo-Espin AM (March 2002). "Methods for the recovery of mitochondrial DNA sequences from museum specimens of myiasis-causing flies". Medical and Veterinary Entomology. 16 (1): 39–45. doi:10.1046/j.0269-283x.2002.00336.x. PMID 11963980.
+^ Kuch M, Rohland N, Betancourt JL, Latorre C, Steppan S, Poinar HN (May 2002). "Molecular analysis of an 11,700-year-old rodent midden from the Atacama Desert, Chile". Molecular Ecology. 11 (5): 913–24. doi:10.1046/j.1365-294X.2002.01492.x. PMID 11975707. S2CID 10538371.
+^ Goloubinoff P, Pääbo S, Wilson AC (March 1993). "Evolution of maize inferred from sequence diversity of an Adh2 gene segment from archaeological specimens". Proceedings of the National Academy of Sciences of the United States of America. 90 (5): 1997–2001. Bibcode:1993PNAS...90.1997G. doi:10.1073/pnas.90.5.1997. PMC 46007. PMID 8446621.
+^ Dumolin-Lapègue S, Pemonge MH, Gielly L, Taberlet P, Petit RJ (December 1999). "Amplification of oak DNA from ancient and modern wood". Molecular Ecology. 8 (12): 2137–40. doi:10.1046/j.1365-294x.1999.00788.x. PMID 10632865. S2CID 41967121.
+^ Willerslev E, Cooper A (January 2005). "Ancient DNA". Proceedings. Biological Sciences. 272 (1558): 3–16. doi:10.1098/rspb.2004.2813. PMC 1634942. PMID 15875564.
+^ Erika Check Hayden (26 June 2013). "First horses arose 4 million years ago". Nature. doi:10.1038/nature.2013.13261.
+^ Lee JL (November 7, 2017). "World's Oldest Genome Sequenced From 700,000-Year-Old Horse DNA". National Geographic. Retrieved May 19, 2019.
+^ Orlando L, Ginolhac A, Zhang G, Froese D, Albrechtsen A, Stiller M, et al. (July 2013). "Recalibrating Equus evolution using the genome sequence of an early Middle Pleistocene horse". Nature. 499 (7456): 74–8. Bibcode:2013Natur.499...74O. doi:10.1038/nature12323. PMID 23803765. S2CID 4318227.
+^ Dabney J, Knapp M, Glocke I, Gansauge MT, Weihmann A, Nickel B, et al. (September 2013). "Complete mitochondrial genome sequence of a Middle Pleistocene cave bear reconstructed from ultrashort DNA fragments". Proceedings of the National Academy of Sciences of the United States of America. 110 (39): 15758–63. Bibcode:2013PNAS..11015758D. doi:10.1073/pnas.1314445110. PMC 3785785. PMID 24019490.
+^ Callaway E (February 2021). "Million-year-old mammoth genomes shatter record for oldest ancient DNA". Nature. 590 (7847): 537–538. Bibcode:2021Natur.590..537C. doi:10.1038/d41586-021-00436-x. ISSN 0028-0836. PMID 33597786.
+^ a b Kirkpatrick JB, Walsh EA, D'Hondt S (2016-07-08). "Fossil DNA persistence and decay in marine sediment over hundred-thousand-year to million-year time scales". Geology. 44 (8): 615–18. Bibcode:2016Geo....44..615K. doi:10.1130/g37933.1. ISSN 0091-7613.
+^ a b c Prüfer K, Posth C, Yu H, Stoessel A, Spyrou MA, Deviese T, et al. (June 2021). "A genome sequence from a modern human skull over 45,000 years old from Zlatý kůň in Czechia". Nature Ecology & Evolution. 5 (6): 820–825. doi:10.1038/s41559-021-01443-x. PMC 8175239. PMID 33828249. Available under CC BY 4.0.
+^ Handt O, Richards M, Trommsdorff M, Kilger C, Simanainen J, Georgiev O, et al. (June 1994). "Molecular genetic analyses of the Tyrolean Ice Man". Science. 264 (5166): 1775–8. Bibcode:1994Sci...264.1775H. doi:10.1126/science.8209259. PMID 8209259.
+^ Montiel R, Malgosa A, Francalacci P (October 2001). "Authenticating ancient human mitochondrial DNA". Human Biology. 73 (5): 689–713. doi:10.1353/hub.2001.0069. PMID 11758690. S2CID 39302526.
+^ Hänni C, Laudet V, Coll J, Stehelin D (July 1994). "An unusual mitochondrial DNA sequence variant from an Egyptian mummy". Genomics. 22 (2): 487–9. doi:10.1006/geno.1994.1417. PMID 7806242.
+^ Pinhasi R, Fernandes D, Sirak K, Novak M, Connell S, Alpaslan-Roodenberg S, et al. (2015-06-18). "Optimal Ancient DNA Yields from the Inner Ear Part of the Human Petrous Bone". PLOS ONE. 10 (6): e0129102. Bibcode:2015PLoSO..1029102P. doi:10.1371/journal.pone.0129102. PMC 4472748. PMID 26086078.
+^ Poinar HN, Kuch M, Sobolik KD, Barnes I, Stankiewicz AB, Kuder T, et al. (April 2001). "A molecular analysis of dietary diversity for three archaic Native Americans". Proceedings of the National Academy of Sciences of the United States of America. 98 (8): 4317–22. Bibcode:2001PNAS...98.4317P. doi:10.1073/pnas.061014798. PMC 31832. PMID 11296282.
+^ Baker LE (2001). Mitochondrial DNA haplotype and sequence analysis of historic Choctaw and Menominee hair shaft samples (PhD thesis). University of Tennessee, Knoxville.
+^ Gilbert MT, Wilson AS, Bunce M, Hansen AJ, Willerslev E, Shapiro B, et al. (June 2004). "Ancient mitochondrial DNA from hair". Current Biology. 14 (12): R463-4. doi:10.1016/j.cub.2004.06.008. PMID 15203015.
+^ Donoghue HD, Spigelman M, Zias J, Gernaey-Child AM, Minnikin DE (1998). "Mycobacterium tuberculosis complex DNA in calcified pleura from remains 1400 years old". Lett Appl Microbiol. 27 (5): 265–69. doi:10.1046/j.1472-765x.1998.t01-8-00449.x (inactive 2024-05-17). PMID 9830142.{{cite journal}}: CS1 maint: DOI inactive as of May 2024 (link)
+^ Jackson PJ, Hugh-Jones ME, Adair DM, Green G, Hill KK, Kuske CR, et al. (February 1998). "PCR analysis of tissue samples from the 1979 Sverdlovsk anthrax victims: the presence of multiple Bacillus anthracis strains in different victims". Proceedings of the National Academy of Sciences of the United States of America. 95 (3): 1224–9. Bibcode:1998PNAS...95.1224J. doi:10.1073/pnas.95.3.1224. PMC 18726. PMID 9448313.
+^ Basler CF, Reid AH, Dybing JK, Janczewski TA, Fanning TG, Zheng H, et al. (February 2001). "Sequence of the 1918 pandemic influenza virus nonstructural gene (NS) segment and characterization of recombinant viruses bearing the 1918 NS genes". Proceedings of the National Academy of Sciences of the United States of America. 98 (5): 2746–51. Bibcode:2001PNAS...98.2746B. doi:10.1073/pnas.031575198. PMC 30210. PMID 11226311.
+^ Taubenberger JK, Reid AH, Krafft AE, Bijwaard KE, Fanning TG (March 1997). "Initial genetic characterization of the 1918 "Spanish" influenza virus". Science. 275 (5307): 1793–6. doi:10.1126/science.275.5307.1793. PMID 9065404. S2CID 8976173.
+^ QIIME
+^ Pratas D, Pinho AJ, Silva RM, Rodrigues JM, Hosseini M, Caetano T, Ferreira PJ (February 2018). "FALCON: a method to infer metagenomic composition of ancient DNA". bioRxiv. doi:10.1101/267179.
+^ Lalueza-Fox C, Rosas A, de la Rasilla M (January 2012). "Palaeogenetic research at the El Sidrón Neanderthal site". Annals of Anatomy - Anatomischer Anzeiger. Special Issue: Ancient DNA. 194 (1): 133–7. doi:10.1016/j.aanat.2011.01.014. hdl:10261/79609. PMID 21482084.
+^ Zimmer C (16 November 2015). "In a Tooth, DNA From Some Very Old Cousins, the Denisovans". The New York Times. Retrieved 16 November 2015.
+^ Sawyer S, Renaud G, Viola B, Hublin JJ, Gansauge MT, Shunkov MV, et al. (December 2015). "Nuclear and mitochondrial DNA sequences from two Denisovan individuals". Proceedings of the National Academy of Sciences of the United States of America. 112 (51): 15696–700. Bibcode:2015PNAS..11215696S. doi:10.1073/pnas.1519905112. PMC 4697428. PMID 26630009.
+^ Olalde I, Brace S, Allentoft ME, Armit I, Kristiansen K, Booth T, et al. (March 2018). "The Beaker phenomenon and the genomic transformation of northwest Europe". Nature. 555 (7695): 190–196. Bibcode:2018Natur.555..190O. doi:10.1038/nature25738. PMC 5973796. PMID 29466337.
+^ Zimmer C (21 September 2017). "Clues to Africa's Mysterious Past Found in Ancient Skeletons". The New York Times. Retrieved 21 September 2017.
+^ Schlebusch CM, Malmström H, Günther T, Sjödin P, Coutinho A, Edlund H, et al. (November 2017). "Southern African ancient genomes estimate modern human divergence to 350,000 to 260,000 years ago". Science. 358 (6363): 652–655. Bibcode:2017Sci...358..652S. doi:10.1126/science.aao6266. PMID 28971970.
+^ "Neanderthal ancestry identifies oldest modern human genome". phys.org. Retrieved 10 May 2021.
+^ "Europe's oldest known humans mated with Neandertals surprisingly often". Science News. 7 April 2021. Retrieved 10 May 2021.
+^ Hajdinjak M, Mafessoni F, Skov L, Vernot B, Hübner A, Fu Q, et al. (April 2021). "Initial Upper Palaeolithic humans in Europe had recent Neanderthal ancestry". Nature. 592 (7853): 253–257. Bibcode:2021Natur.592..253H. doi:10.1038/s41586-021-03335-3. PMC 8026394. PMID 33828320. Available under CC BY 4.0.
+Reich D (2018). Who We Are And How We Got Here – Ancient DNA and the New Science of the Human Past. Pantheon Books. ISBN 978-1101870327.
+Diamond J (April 20, 2018). "A Brand-New Version of Our Origin Story". The New York Times. Retrieved April 23, 2018.
+Orlando L (June 2014). "A 400,000-year-old mitochondrial genome questions phylogenetic relationships amongst archaic hominins: using the latest advances in ancient genomics, the mitochondrial genome sequence of a 400,000-year-old hominin has been deciphered". BioEssays. 36 (6): 598–605. doi:10.1002/bies.201400018. PMID 24706482. S2CID 35786511.
+Jones E (2022). Ancient DNA: The Making of a Celebrity Science. Yale University Press. ISBN 978-0-300-24012-2.
+"Ancient DNA". Ancestral journeys. Archived from the original on October 3, 2016.
+Famous mtDNA, isogg wiki
+Ancient mtDNA, isogg wiki
+Ancient DNA Archived 2020-03-06 at the Wayback Machine, y-str.org
+Evidence of the Past: A Map and Status of Ancient Remains – samples from USA no sequence data here.
+"Unravelling the mummy mystery – using DNA". Archived from the original on December 14, 2009 – no data on YDNA only mtDNA
+v
+t
+e
+Archaeological sites
+Antiquarianism
+Johann Joachim Winckelmann
+Richard Hoare
+Heinrich Schliemann
+Arthur Evans
+John Lloyd Stephens
+William Henry Holmes
+Augustus Pitt Rivers
+Flinders Petrie
+Mortimer Wheeler
+Dorothy Garrod
+Max Uhle
+Alfred V. Kidder
+George Bass
+Archaeological theory
+Philosophy of archaeology
+Archaeological diving
+Archaeological ethics
+Conservation and restoration of archaeological sites
+Survey geophysical survey electrical resistance survey Sondage
+geophysical survey
+electrical resistance survey
+Sondage
+Burnt layer
+Excavation
+Lithic analysis
+Post-excavation
+Prehistoric
+Protohistoric
+Biblical
+Classical
+Medieval
+Post-Medieval
+Historical
+Contemporary
+African
+American
+Asian
+Australian
+Oceanian
+Egyptian
+Mesopotamian
+Near Eastern
+Nubian
+Aerial
+Bioarchaeology Archaeogenetics Medieval Near Eastern Osteology Paleopathology
+Archaeogenetics
+Mediev

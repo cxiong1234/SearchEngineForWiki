@@ -1,0 +1,124 @@
+The Gene Ontology (GO) is a major bioinformatics initiative to unify the representation of gene and gene product attributes across all species.[1] More specifically, the project aims to: 1) maintain and develop its controlled vocabulary of gene and gene product attributes; 2) annotate genes and gene products, and assimilate and disseminate annotation data; and 3) provide tools for easy access to all aspects of the data provided by the project, and to enable functional interpretation of experimental data using the GO, for example via enrichment analysis.[2][3] GO is part of a larger classification effort, the Open Biomedical Ontologies, being one of the Initial Candidate Members of the OBO Foundry.[4]
+Whereas gene nomenclature focuses on gene and gene products, the Gene Ontology focuses on the function of the genes and gene products. The GO also extends the effort by using a markup language to make the data (not only of the genes and their products but also of curated attributes) machine readable, and to do so in a way that is unified across all species (whereas gene nomenclature conventions vary by biological taxon).
+The Gene Ontology was originally constructed in 1998 by a consortium of researchers studying the genomes of three model organisms: Drosophila melanogaster (fruit fly), Mus musculus (mouse), and Saccharomyces cerevisiae (brewer's or baker's yeast).[5] Many other Model Organism Databases have joined the Gene Ontology Consortium, contributing not only to annotation data, but also to the development of ontologies and tools to view and apply the data. Many major plant, animal, and microorganism databases make a contribution towards this project.[6] As of July 2019, the GO contains 44,945 terms; there are 6,408,283 annotations to 4,467 different biological organisms.[6] There is a significant body of literature on the development and use of the GO, and it has become a standard tool in the bioinformatics arsenal. Their objectives have three aspects: building gene ontology, assigning ontology to gene/gene products, and developing software and databases for the first two objects.
+Several analyses of the Gene Ontology using formal, domain-independent properties of classes (the metaproperties) are also starting to appear. For instance, there is now an ontological analysis of biological ontologies.[7]
+From a practical view, an ontology is a representation of something we know about. "Ontologies" consist of representations of things that are detectable or directly observable and the relationships between those things. There is no universal standard terminology in biology and related domains, and term usage may be specific to a species, research area, or even a particular research group. This makes communication and sharing of data more difficult. The Gene Ontology project provides an ontology of defined terms representing gene product properties. The ontology covers three domains:
+cellular component, the parts of a cell or its extracellular environment;
+molecular function, the elemental activities of a gene product at the molecular level, such as binding or catalysis;
+biological process, operations or sets of molecular events with a defined beginning and end, pertinent to the functioning of integrated living units: cells, tissues, organs, and organisms.
+Each GO term within the ontology has a term name, which may be a word or string of words; a unique alphanumeric identifier; a definition with cited sources; and an ontology indicating the domain to which it belongs. Terms may also have synonyms, which are classed as being exactly equivalent to the term name, broader, narrower, or related; references to equivalent concepts in other databases; and comments on term meaning or usage. The GO ontology is structured as a directed acyclic graph, and each term has defined relationships to one or more other terms in the same domain, and sometimes to other domains. The GO vocabulary is designed to be species-neutral and includes terms applicable to prokaryotes and eukaryotes, single and multicellular organisms.
+GO is not static, and additions, corrections, and alterations are suggested by and solicited from members of the research and annotation communities, as well as by those directly involved in the GO project.[8] For example, an annotator may request a specific term to represent a metabolic pathway, or a section of the ontology may be revised with the help of community experts (e.g.[9]). Suggested edits are reviewed by the ontology editors, and implemented where appropriate.
+The GO ontology and annotation files are freely available from the GO website in a number of formats or can be accessed online using the GO browser AmiGO.[6] The Gene Ontology project also provides downloadable mappings of its terms to other classification systems.
+Data source:[10]
+Genome annotation encompasses the practice of capturing data about a gene product, and GO annotations use terms from the GO to do so. Annotations from GO curators are integrated and disseminated on the GO website, where they can be downloaded directly or viewed online using AmiGO.[11] In addition to the gene product identifier and the relevant GO term, GO annotations have at least the following data: The reference used to make the annotation (e.g. a journal article); An evidence code denoting the type of evidence upon which the annotation is based; The date and the creator of the annotation
+Supporting information, depending on the GO term and evidence used, and supplementary information, such as the conditions the function is observed under, may also be included in a GO annotation.
+The evidence code comes from a controlled vocabulary of codes, the Evidence Code Ontology, covering both manual and automated annotation methods.[12] For example, Traceable Author Statement (TAS) means a curator has read a published scientific paper and the metadata for that annotation bears a citation to that paper; Inferred from Sequence Similarity (ISS) means a human curator has reviewed the output from a sequence similarity search and verified that it is biologically meaningful. Annotations from automated processes (for example, remapping annotations created using another annotation vocabulary) are given the code Inferred from Electronic Annotation (IEA). In 2010, over 98% of all GO annotations were inferred computationally, not by curators, but as of July 2, 2019, only about 30% of all GO annotations were inferred computationally.[13][14] As these annotations are not checked by a human, the GO Consortium considers them to be marginally less reliable and they are commonly to a higher level, less detailed terms. Full annotation data sets can be downloaded from the GO website. To support the development of annotation, the GO Consortium provides workshops and mentors new groups of curators and developers.
+Many machine learning algorithms have been designed and implemented to predict Gene Ontology annotations.[15][16]
+Data source:[17]
+There are a large number of tools available, both online and for download, that use the data provided by the GO project.[18] The vast majority of these come from third parties; the GO Consortium develops and supports two tools, AmiGO and OBO-Edit.
+AmiGO[19][11] is a web-based application that allows users to query, browse, and visualize ontologies and gene product annotation data. It also has a BLAST tool,[20] tools allowing analysis of larger data sets,[21][22] and an interface to query the GO database directly.[23] AmiGO can be used online at the GO website to access the data provided by the GO Consortium or downloaded and installed for local use on any database employing the GO database schema (e.g.[24]). It is free open source software and is available as part of the go-dev software distribution.[25]
+OBO-Edit is an open source, platform-independent ontology editor developed and maintained by the Gene Ontology Consortium.[26] It is implemented in Java and uses a graph-oriented approach to display and edit ontologies. OBO-Edit includes a comprehensive search and filter interface, with the option to render subsets of terms to make them visually distinct; the user interface can also be customized according to user preferences. OBO-Edit also has a reasoner that can infer links that have not been explicitly stated based on existing relationships and their properties. Although it was developed for biomedical ontologies, OBO-Edit can be used to view, search, and edit any ontology. It is freely available to download.[25]
+The Gene Ontology Consortium is the set of biological databases and research groups actively involved in the gene ontology project.[14] This includes a number of model organism databases and multi-species protein databases, software development groups, and a dedicated editorial office.
+Blast2GO
+Comparative Toxicogenomics Database
+DAVID bioinformatics
+Interferome
+National Center for Biomedical Ontology
+Critical Assessment of Function Annotation
+^ The Gene Ontology Consortium (January 2008). "The Gene Ontology project in 2008". Nucleic Acids Research. 36 (Database issue): D440–4. doi:10.1093/nar/gkm883. PMC 2238979. PMID 17984083.
+^ Dessimoz, Christophe; Škunca, Nives, eds. (2017). The Gene Ontology Handbook. Methods in Molecular Biology. Vol. 1446. doi:10.1007/978-1-4939-3743-1. ISBN 9781493937431. ISSN 1064-3745. S2CID 3708801.
+^ Gaudet, Pascale; Škunca, Nives; Hu, James C.; Dessimoz, Christophe (2017). "Primer on the Gene Ontology". The Gene Ontology Handbook. Methods in Molecular Biology. Vol. 1446. pp. 25–37. doi:10.1007/978-1-4939-3743-1_3. ISBN 978-1-4939-3741-7. ISSN 1064-3745. PMC 6377150. PMID 27812933.
+^ Smith B, Ashburner M, Rosse C, Bard J, Bug W, Ceusters W, Goldberg LJ, Eilbeck K, Ireland A, Mungall CJ, Leontis N, Rocca-Serra P, Ruttenberg A, Sansone SA, Scheuermann RH, Shah N, Whetzel PL, Lewis S (November 2007). "The OBO Foundry: coordinated evolution of ontologies to support biomedical data integration". Nature Biotechnology. 25 (11): 1251–5. doi:10.1038/nbt1346. PMC 2814061. PMID 17989687.
+^ Ashburner M, Ball CA, Blake JA, Botstein D, Butler H, Cherry JM, Davis AP, Dolinski K, Dwight SS, Eppig JT, Harris MA, Hill DP, Issel-Tarver L, Kasarskis A, Lewis S, Matese JC, Richardson JE, Ringwald M, Rubin GM, Sherlock G (May 2000). "Gene ontology: tool for the unification of biology. The Gene Ontology Consortium". Nature Genetics. 25 (1): 25–9. doi:10.1038/75556. PMC 3037419. PMID 10802651.
+^ a b c "The Gene Ontology Resource". Gene Ontology Consortium.
+^ Deb, B. (2012). "An ontological analysis of some biological ontologies". Frontiers in Genetics. 3: 269. doi:10.3389/fgene.2012.00269. PMC 3509948. PMID 23226158.
+^ Lovering, Ruth C. (2017). "How Does the Scientific Community Contribute to Gene Ontology?". In Dessimoz, C; Skunca, N (eds.). The Gene Ontology Handbook. Methods in Molecular Biology. Vol. 1446. Springer (New York). pp. 85–93. doi:10.1007/978-1-4939-3743-1_7. ISBN 978-1-4939-3741-7. ISSN 1064-3745. PMID 27812937. S2CID 4924457.
+^ Diehl AD, Lee JA, Scheuermann RH, Blake JA (April 2007). "Ontology development for biological systems: immunology". Bioinformatics. 23 (7): 913–5. doi:10.1093/bioinformatics/btm029. PMID 17267433.
+^ "AmiGO 2 Manual: Term Page". Gene Ontology Consortium Wiki. 2013-07-10.
+^ a b AmiGO--the current official web-based set of tools for searching and browsing the Gene Ontology database
+^ "Evidence Code Ontology". Evidence Code Ontology.
+^ du Plessis L, Skunca N, Dessimoz C (November 2011). "The what, where, how and why of gene ontology--a primer for bioinformaticians". Briefings in Bioinformatics. 12 (6): 723–35. doi:10.1093/bib/bbr002. PMC 3220872. PMID 21330331.
+^ a b "The GO Consortium". Archived from the original on 2014-07-02. Retrieved 2009-03-16.
+^ Pinoli P, Chicco D, Masseroli M (June 2013). "Computational algorithms to predict Gene Ontology annotation". BMC Bioinformatics. 16 (6): S4. doi:10.1186/1471-2105-16-S6-S4. PMC 4416163. PMID 25916950.
+^ Cozzetto, Domenico; Jones, David T. (2017). "Computational Methods for Annotation Transfers from Sequence". In Dessimoz, C; Skunca, N (eds.). The Gene Ontology Handbook. Methods in Molecular Biology. Vol. 1446. Springer (New York). pp. 55–67. doi:10.1007/978-1-4939-3743-1_5. ISBN 978-1-4939-3741-7. ISSN 1064-3745. PMID 27812935.
+^ The GO Consortium (2009-03-16). "AmiGO: P68032 Associations".
+^ Mosquera JL, Sánchez-Pla A (July 2008). "SerbGO: searching for the best GO tool". Nucleic Acids Research. 36 (Web Server issue): W368–71. doi:10.1093/nar/gkn256. PMC 2447766. PMID 18480123.
+^ Carbon S, Ireland A, Mungall CJ, Shu S, Marshall B, Lewis S (January 2009). "AmiGO: online access to ontology and annotation data". Bioinformatics. 25 (2). AmiGO Hub; Web Presence Working Group: 288–9. doi:10.1093/bioinformatics/btn615. PMC 2639003. PMID 19033274.
+^ "AmiGO BLAST tool". Archived from the original on 2011-08-20. Retrieved 2009-03-13.
+^ AmiGO Term Enrichment tool Archived 2008-04-07 at the Wayback Machine; finds significant shared GO terms in an annotation set
+^ AmiGO Slimmer Archived 2011-09-29 at the Wayback Machine; maps granular annotations up to high-level terms
+^ GOOSE Archived 2009-03-01 at the Wayback Machine, GO Online SQL Environment; allows direct SQL querying of the GO database
+^ The Plant Ontology Consortium (2009-03-16). "Plant Ontology Consortium". Retrieved 2009-03-16.
+^ a b "Gene Ontology downloads at SourceForge". Retrieved 2009-03-16.
+^ Day-Richter J, Harris MA, Haendel M, Lewis S (August 2007). "OBO-Edit--an ontology editor for biologists". Bioinformatics. 23 (16): 2198–200. doi:10.1093/bioinformatics/btm112. PMID 17545183.
+Gene Ontology ID (P686) (see uses)
+AmiGO - the current official web-based set of tools for searching and browsing the Gene Ontology database
+Gene Ontology Consortium - official site
+PlantRegMap - GO annotation for 165 plant species and GO enrichment Analysis
+v
+t
+e
+Sequence databases: GenBank, European Nucleotide Archive, DNA Data Bank of Japan and China National GeneBank
+Secondary databases: UniProt, database of protein sequences grouping together Swiss-Prot, TrEMBL and Protein Information Resource
+Other databases: BioNumbers, Protein Data Bank, Ensembl, InterPro, KEGG, and Gene Ontology
+Specialised genomic databases: BOLD, Saccharomyces Genome Database, FlyBase, VectorBase, WormBase, Rat Genome Database, PHI-base, Arabidopsis Information Resource, GISAID and Zebrafish Information Network
+BLAST
+Bowtie
+Clustal
+EMBOSS
+HMMER
+MUSCLE
+PANGOLIN
+SAMtools
+SOAP suite
+TopHat
+Server: ExPASy
+Rosalind (education platform)
+Broad Institute
+Computational Biology Department (CBD)
+Microsoft Research - University of Trento Centre for Computational and Systems Biology (COSBI)
+Database Center for Life Science (DBCLS)
+DNA Data Bank of Japan (DDBJ)
+European Bioinformatics Institute (EMBL-EBI)
+European Molecular Biology Laboratory (EMBL)
+Flatiron Institute
+J. Craig Venter Institute (JCVI)
+Max Planck Institute of Molecular Cell Biology and Genetics (MPI-CBG)
+US National Center for Biotechnology Information (NCBI)
+Japanese Institute of Genetics
+Netherlands Bioinformatics Centre (NBIC)
+Philippine Genome Center (PGC)
+Scripps Research
+Swiss Institute of Bioinformatics (SIB)
+Wellcome Sanger Institute
+Whitehead Institute
+African Society for Bioinformatics and Computational Biology (ASBCB)
+Australia Bioinformatics Resource (EMBL-AR)
+European Molecular Biology network (EMBnet)
+International Nucleotide Sequence Database Collaboration (INSDC)
+International Society for Biocuration (ISB)
+International Society for Computational Biology (ISCB) Student Council (ISCB-SC)
+Student Council (ISCB-SC)
+Institute of Genomics and Integrative Biology (CSIR-IGIB)
+Japanese Society for Bioinformatics (JSBi)
+Basel Computational Biology Conference‎ ([BC2])
+European Conference on Computational Biology (ECCB)
+Intelligent Systems for Molecular Biology (ISMB)
+International Conference on Bioinformatics (InCoB)
+International Conference on Computational Intelligence Methods for Bioinformatics and Biostatistics (CIBB)
+ISCB Africa ASBCB Conference on Bioinformatics
+Pacific Symposium on Biocomputing (PSB)
+Research in Computational Molecular Biology (RECOMB)
+CRAM format
+FASTA format
+FASTQ format
+NeXML format
+Nexus format
+Pileup format
+SAM format
+Stockholm format
+VCF format
+GFF format
+Computational biology
+List of biobanks
+List 

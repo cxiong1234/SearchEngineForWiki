@@ -8,6 +8,8 @@ public class Main {
         CrawlerWikiFromGoogle crawler = new CrawlerWikiFromGoogle();
         // dataNum is the number of articles per keyword
         crawler.runEntry(30, Arrays.asList("dna", "rna", "protein", "cell", "gene"));
+        /// this is demo
+
     }
 
 }
