@@ -1,0 +1,45 @@
+In eukaryote cells, RNA polymerase III (also called Pol III) is a protein that transcribes DNA to synthesize 5S ribosomal RNA, tRNA, and other small RNAs.
+The genes transcribed by RNA Pol III fall in the category of "housekeeping" genes whose expression is required in all cell types and most environmental conditions. Therefore, the regulation of Pol III transcription is primarily tied to the regulation of cell growth and the cell cycle and thus requires fewer regulatory proteins than RNA polymerase II. Under stress conditions, however, the protein Maf1 represses Pol III activity.[1] Rapamycin is another Pol III inhibitor via its direct target TOR.[2]
+The process of transcription (by any polymerase) involves three main stages:
+Initiation, requiring the construction of the RNA polymerase complex on the gene's promoter
+Elongation, the synthesis of the RNA transcript
+Termination, the finishing of RNA transcription, and disassembly of the RNA polymerase complex
+Pol III is unusual (compared to Pol II) by requiring no control sequences upstream of the gene, instead normally relying on internal control sequences - sequences within the transcribed section of the gene (although upstream sequences are occasionally seen, e.g. U6 snRNA gene has an upstream TATA box as seen in Pol II Promoters).
+There are three classes of Pol III initiation, corresponding to 5S rRNA, tRNA, and U6 snRNA initiation. In all cases, the process starts with transcription factors binding to control sequences and ends with TFIIIB (Transcription Factor for polymerase III B) being recruited to the complex and assembling Pol III. TFIIIB consists of three subunits: TATA binding protein (TBP), a TFIIB-related factor (BRF1, or BRF2 for transcription of a subset of Pol III-transcribed genes in vertebrates), and a B-double-prime (BDP1) unit. The overall architecture bears similarities to that of Pol II.[3]
+Typical stages in 5S rRNA (also termed class I) gene initiation:
+TFIIIA (Transcription Factor for polymerase III A) binds to the intragenic (lying within the transcribed DNA sequence) 5S rRNA control sequence, the C Block (also termed box C).
+TFIIIA serves as a platform that replaces the A and B Blocks for positioning TFIIIC in an orientation with respect to the start site of transcription that is equivalent to what is observed for tRNA genes.
+Once TFIIIC is bound to the TFIIIA-DNA complex, the assembly of TFIIIB proceeds as described for tRNA transcription.
+Typical stages in a tRNA (also termed class II) gene initiation:
+TFIIIC (Transcription Factor for polymerase III C) binds to two intragenic (lying within the transcribed DNA sequence) control sequences, the A and B Blocks (also termed box A and box B).
+TFIIIC acts as an assembly factor that positions TFIIIB to bind to DNA at a site centered approximately 26 base pairs upstream of the start site of transcription.
+TFIIIB is the transcription factor that assembles Pol III at the start site of transcription. Once TFIIIB is bound to DNA, TFIIIC is no longer required. TFIIIB also plays an essential role in promoter opening.
+Typical stages in a U6 snRNA (also termed class III) gene initiation (documented in vertebrates only):
+SNAPc (SNRNA Activating Protein complex; subunits: 1, 2, 3, 4, 5) (also termed PBP and PTF) binds to the PSE (Proximal Sequence Element) centered approximately 55 base pairs upstream of the start site of transcription. This assembly is greatly stimulated by the Pol II transcription factors Oct1 and STAF that bind to an enhancer-like DSE (Distal Sequence Element) at least 200 base pairs upstream of the start site of transcription. These factors and promoter elements are shared between Pol II and Pol III transcription of snRNA genes.
+SNAPc acts to assemble TFIIIB at a TATA box centered 26 base pairs upstream of the start site of transcription. It is the presence of a TATA box that specifies that the snRNA gene is transcribed by Pol III rather than Pol II.
+The TFIIIB for U6 snRNA transcription contains a smaller Brf1 paralogue, Brf2.
+TFIIIB is the transcription factor that assembles Pol III at the start site of transcription. Sequence conservation predicts that TFIIIB containing Brf2 also plays a role in promoter opening.
+TFIIIB remains bound to DNA following the initiation of transcription by Pol III, unlike bacterial σ factors and most of the basal transcription factors for Pol II transcription. This leads to a high rate of transcriptional reinitiation of Pol III-transcribed genes. One study conducted on Saccharomyces cerevisiae found the average rate of chain elongation was 21 to 22 nucleotides per second, with the fastest being 29 nucleotides per second. These rates were comparable to elongation rates of RNA polymerase II found by an in vivo study conducted on Drosophila. The analysis of the individual steps of RNA chain elongation depicted that adding U and A to U-terminated RNA chains was slow.[4]
+Polymerase III terminates transcription at small polyUs stretch (5-6). In eukaryotes, a hairpin loop is not required, but may enhance termination efficiency in humans.[5] In Saccharomyces cerevisiae, it was found that termination of transcription occurred in the sequence T7GT6 and was progressive. The presence of transcripts with five, six, and seven U residues and the slow readthrough of the T7 stretch suggest that the incorporation of a single G into the RNA chain served to reset elongation rates either entirely or substantially.[4]
+The types of RNAs transcribed from RNA polymerase III include:[6]
+Transfer RNAs
+5S ribosomal RNA
+U6 spliceosomal RNA
+RNase P and RNase MRP RNA
+7SL RNA (the RNA component of the signal recognition particle)
+Vault RNAs
+Y RNA
+SINEs (short interspersed repetitive elements)
+7SK RNA
+Several microRNAs
+Several small nucleolar RNAs
+Several gene regulatory antisense RNAs[7]
+RNA polymerase III appears to be essential for homologous recombinational repair of DNA double-strand breaks.[8] RNA polymerase III catalyzes the formation of a transient RNA-DNA hybrid at double strand breaks, an essential intermediate step in homologous recombination mediated double-strand break repair.[8] This step protects the 3’ overhanging DNA strand from degradation.[8] After the transient RNA-DNA hybrid intermediate is formed, the RNA strand is replaced by the RAD51 protein, which then catalyzes the ssDNA invasion step of homologous recombination.
+RNA polymerase
+^ Vannini, Alessandro; Ringel, Rieke; Kusser, Anselm G.; Berninghausen, Otto; Kassavetis, George A.; Cramer, Patrick (2010). "Molecular Basis of RNA Polymerase III Transcription Repression by Maf1". Cell. 143 (1): 59–70. doi:10.1016/j.cell.2010.09.002. hdl:11858/00-001M-0000-0015-820B-0. ISSN 0092-8674. PMID 20887893.
+^ Lee, JaeHoon; Moir, Robyn D.; Willis, Ian M. (2009-05-08). "Regulation of RNA Polymerase III Transcription Involves SCH9-dependent and SCH9-independent Branches of the Target of Rapamycin (TOR) Pathway". Journal of Biological Chemistry. 284 (19): 12604–12608. doi:10.1074/jbc.c900020200. ISSN 0021-9258. PMC 2675989. PMID 19299514.
+^ Han, Yan; Yan, Chunli; Fishbain, Susan; Ivanov, Ivaylo; He, Yuan (2018). "Structural visualization of RNA polymerase III transcription machineries". Cell Discovery. 4: 40. doi:10.1038/s41421-018-0044-z. PMC 6066478. PMID 30083386.
+^ a b Matsuzaki, H.; Kassavetis, G. A.; Geiduschek, E. P. (1994-01-28). "Analysis of RNA chain elongation and termination by Saccharomyces cerevisiae RNA polymerase III". Journal of Molecular Biology. 235 (4): 1173–1192. doi:10.1006/jmbi.1994.1072. ISSN 0022-2836. PMID 8308883.
+^ Verosloff, M; Corcoran, W; Dolberg, T; Leonard, J; Lucks, J (2020). "RNA sequence and structure determinants of Pol III transcriptional termination in human cells" (PDF). bioRxiv. doi:10.1101/2020.09.11.294140. S2CID 221713150.
+^ Dieci, Giorgio; Fiorino, Gloria; Castelnuovo, Manuele; Teichmann, Martin; Pagano, Aldo (2007). "The expanding RNA polymerase III transcriptome". Trends in Genetics. 23 (12): 614–622. doi:10.1016/j.tig.2007.09.001. ISSN 0168-9525. PMID 17977614.
+^ Pagano, Aldo; Castelnuovo, Manuele; Tortelli, Federico; Ferrari, Roberto; Dieci, Giorgio; Cancedda, Ranieri (2007-02-02). "New Small N
